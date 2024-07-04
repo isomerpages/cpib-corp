@@ -32,8 +32,8 @@ and passion about the anti-corruption cause!</p>
 to your continuous development.</p>
 <p>CPIB provides opportunities to grow professionally and personally and
 enable you to learn new skills to future-proof your career, such as having
-specialized training, upskilling in emerging technologies, mentorship,
-providing local and overseas attachment opportunities and gaining industry-recognized
+specialised training, upskilling in emerging technologies, mentorship,
+providing local and overseas attachment opportunities and gaining industry-recognised
 professional certifications.</p>
 <p>We will provide the support and the necessary resources to enable you
 to be the sharpest in our trade!</p>
@@ -44,7 +44,4 @@ At CPIB, we are more than colleagues; we are a support system. Celebrate
 achievements together, overcome challenges as a team and forge friendships
 that last a lifetime! You can look forward to fun-filled corporate activities
 such as sports-related events, fruits fiesta, games day and many more!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CPIB_Family.png">
-</div>
 <p></p>
