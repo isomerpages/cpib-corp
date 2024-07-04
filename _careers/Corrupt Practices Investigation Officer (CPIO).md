@@ -22,7 +22,7 @@ anti-corruption agencies and local law enforcement or regulatory agencies.</p>
 <p>Step into the world of CPIB investigations, where every case is a puzzle
 waiting to be solved. Our officers embark on an investigative odyssey,
 meticulously uncovering the truth and ensuring that justice prevails. You
-will handle complains, execute operations (including conducting arrest,
+will handle complaints, execute operations (including conducting arrest,
 retrieving ground evidence) and conduct interviews to find out the truth,
 as well as put up investigation papers on findings and recommendations.
 You will also assist in criminal legal proceedings arising from CPIB’s
@@ -44,12 +44,12 @@ and interrogation techniques. In addition, you will be introduced to digital
 forensics and the capabilities that CPIB has. The training also covers
 self-defence tactics, firearms handling, first aid training and other exposures
 including visits to different agencies and study trips.</p>
-<p>You will also be assigned a buddy, who will orientate and familiarize
+<p>You will also be assigned a buddy, who will orientate and familiarise
 you with the CPIB environment and work.</p>
 <p>There will be a 2-year bond after the training.&nbsp;</p>
 <p><strong><em>Foundational Posting to Investigation Units</em></strong>
 </p>
-<p>After completing the 5-month program, you will be posted to the investigation
+<p>After completing the 5-month programme, you will be posted to the investigation
 units for your foundational posting. Through this, you will take on cases
 and hone your investigations tradecraft. You will also be assigned a mentor
 to guide you in your career journey.</p>
@@ -80,10 +80,10 @@ expertise.</p>
 experience will be remunerated accordingly)</p>
 </li>
 <li>
-<p>Degree Holders: $4,875 to $5,806</p>
+<p>Degree Holders: $4,875 to $5,842</p>
 </li>
 <li>
-<p>GCE ‘O’ level to Diploma Holders: $2,044 to $3,224</p>
+<p>GCE ‘O’ level to Diploma Holders: $2,044 to $3,244</p>
 </li>
 <li>
 <p>Retention incentives at various career milestones until retirement (aligned
@@ -132,9 +132,9 @@ environment; and</p>
 <p>Singapore Citizen</p>
 </li>
 </ul>
-<p>All interested applicants are encouraged to look out for available positions
-on <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a> website.
-Applications can only be submitted through the <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a> website during the Bureau’s
+<p>Recruitment exercise is now open on Careers@Gov website until <strong>12 July 2024</strong> (applications
+to be submitted by <strong>2350 hrs</strong> on Careers@Gov). Applications
+can only be submitted through the Careers@Gov website during the Bureau's
 recruitment exercises. If you wish to be notified of future recruitment
 exercise for CPIO, you can join our mailing list at <a href="https://www.go.gov.sg/cpiomailinglist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpiomailinglist</a>
 </p>
