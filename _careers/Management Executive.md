@@ -14,7 +14,7 @@ a MX, you will step into executive roles that offer a unique blend of strategic
 vision, innovation and instrumental line operations.</p>
 <p>At CPIB, we’re building more than cases; we’re crafting a future-ready
 organisation. Your executive role isn’t just a job; it’s a chance to drive
-organizational excellence, contribute to strategic initiatives and transform
+organisational excellence, contribute to strategic initiatives and transform
 our work, workplace and workforce. You will review and formulate existing
 and new policies/programmes in various functional areas including legislations,
 international relations, data analytics, strategic planning and corporate
@@ -23,7 +23,7 @@ resource, finance, internal audit and corporate services.</p>
 <h4><strong>What awaits you after you join?</strong></h4>
 <p><strong><em>Mentorship and Peer Support Network</em></strong>
 </p>
-<p>You will be assigned a buddy, who will orientate and familiarize you with
+<p>You will be assigned a buddy, who will orientate and familiarise you with
 the CPIB environment and work. You will also be assigned a mentor to guide
 you in your career journey.</p>
 <p><strong><em>Career Development</em></strong>
@@ -50,7 +50,7 @@ expertise.</p>
 <p>Professional learning and development opportunities</p>
 </li>
 <li>
-<p>$3,750 to $4,548 (indicative salary range for degree holders; successful
+<p>$3,750 to $4,574 (indicative salary range for degree holders; successful
 candidates with relevant work experience will be remunerated accordingly)</p>
 </li>
 <li>
