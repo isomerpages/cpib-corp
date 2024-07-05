@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /contact-us-page/
+permalink: /contact-us/
 variant: tiptap
 description: Contact Us
 ---
