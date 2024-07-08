@@ -21,9 +21,8 @@ registered for investigation if the information received is pursuable.
 This is determined by the quality of relevant information provided. Investigative
 enquiries and intelligence probes by CPIB also uncovered further information
 that enabled a higher percentage of reports to be registered for investigation.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/figure_1.png">
 </div>
 <p>2. CPIB treats all reports received seriously regardless of whether the
 complainant is named or anonymous. Of the 215 corruption-related reports
@@ -31,8 +30,9 @@ received in 2023, 98 (46%) were anonymous. The merits of these reports
 were assessed based on the information provided. Of the 81 cases registered
 for investigation in 2023, 20 (25%) were anonymous.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What_to_include.png">
 </div>
 <p><strong><em><u>Number of Public Sector Cases Remained Low</u></em></strong>
 </p>
@@ -43,7 +43,7 @@ the other hand, public sector cases accounted for 14% of all cases (11
 cases) registered for investigation in 2023.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/figure_2.png">
 </div>
 <p></p>
 <p><strong><em><u>Majority of Individuals Prosecuted in Court were from the Private Sector</u></em></strong>
@@ -57,7 +57,7 @@ while the remaining 5% (6) were public sector employees.&nbsp;</p>
 investigation into 84% of subjects investigated in 2023 (<strong>Figure 3</strong>).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/figure_3.png">
 </div>
 <p><strong><em><u>High Conviction Rate Maintained</u></em></strong>
 </p>
@@ -69,7 +69,7 @@ relationship between CPIB and the Attorney-General’s Chambers (AGC) in
 bringing corrupt offenders to task.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/figure_4.png">
 </div>
 <p><strong>Constant Vigilance is Critical to a Clean and Incorruptible System &nbsp;&nbsp;</strong>
 </p>
@@ -265,8 +265,9 @@ play a vital role to combat corruption. CPIB remains strongly committed
 to work closely together with all segments of the community to keep Singapore
 corruption-free and ensure that the important value of incorruptibility
 continues to be instilled into the young and future generations of Singaporeans.&nbsp;&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.cpib.gov.sg/images/Graph_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_your_part.png">
 </div>
 <p>[1] Public sector employees who rejected bribes in 2023 comprised officers
 from the Singapore Police Force (SPF), the Immigration &amp; Checkpoints
