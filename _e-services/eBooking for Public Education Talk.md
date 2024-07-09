@@ -26,6 +26,9 @@ to learn about:</p>
 <p>* Programme is subjected to change.
 <br>* This e-Service will require 5 – 10 minutes to complete.
 <br>* If users encounter any errors with the e-Service, please email <a href="mailto: info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@cpib.gov.sg</a> with
-information on the issue.</p>
-<p><strong><a href="https://go.gov.sg/cpibpubliceducationtalks" class="button_special" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE TO PROCEED</a></strong>
+information on the issue.
+<br>
 </p>
+<p>Notice: As we are fully booked for the rest of the year, application for
+Public Education talks is closed until further notice.</p>
+<p></p>
