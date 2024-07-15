@@ -132,9 +132,9 @@ environment; and</p>
 <p>Singapore Citizen</p>
 </li>
 </ul>
-<p>Recruitment exercise is now open on Careers@Gov website until <strong>12 July 2024</strong> (applications
-to be submitted by <strong>2350 hrs</strong> on Careers@Gov). Applications
-can only be submitted through the Careers@Gov website during the Bureau's
+<p>All interested applicants are encouraged to look out for available positions
+on <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a> website.
+Applications can only be submitted through the <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a> website during the Bureau's
 recruitment exercises. If you wish to be notified of future recruitment
 exercise for CPIO, you can join our mailing list at <a href="https://www.go.gov.sg/cpiomailinglist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpiomailinglist</a>
 </p>
