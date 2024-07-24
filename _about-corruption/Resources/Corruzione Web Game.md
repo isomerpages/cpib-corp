@@ -2,7 +2,8 @@
 title: Corruzione Web Game
 permalink: /about-corruption/resources/corruzione-web-game/
 variant: tiptap
-description: ""
+description: Corruzione is a Web Game that leverages on gamification to educate
+  on the far-reaching consequences of corruption in a fun and interactive way.
 third_nav_title: Resources
 ---
 <p></p>

@@ -2,7 +2,9 @@
 title: "Corruption Casebook 2: Hidden Victims of Corruption"
 permalink: /about-corruption/resources/corruption-casebook-2/
 variant: tiptap
-description: ""
+description: The Corruption Casebook 2 features real-life cases and interactive
+  activities which aim to educate youth that corruption is not a victimless
+  crime.
 third_nav_title: Resources
 ---
 <p></p>

@@ -2,7 +2,9 @@
 title: "Scrupulous, Thorough, Fearless: The CPIB Story"
 permalink: /about-corruption/resources/scrupulous-thorough-fearless-the-cpib-story/
 variant: tiptap
-description: ""
+description: Scrupulous, Thorough, Fearless — The CPIB Story chronicles the
+  journey of the Corrupt Practices Investigation Bureau (CPIB) from its
+  beginnings to the present.
 third_nav_title: Resources
 ---
 <p></p>

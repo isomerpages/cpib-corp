@@ -2,7 +2,9 @@
 title: PACT
 permalink: /about-corruption/resources/pact/
 variant: tiptap
-description: ""
+description: PACT- A Practical Anti-Corruption Guide for Businesses in Singapore
+  guides business owners in developing and implementing an anti-corruption
+  system in a clear and easy-to-understand manner.
 third_nav_title: Resources
 ---
 <p></p>
