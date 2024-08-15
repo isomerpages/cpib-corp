@@ -29,6 +29,6 @@ to learn about:</p>
 information on the issue.
 <br>
 </p>
-<p>Notice: As we are fully booked for the rest of the year, application for
-Public Education talks is closed until further notice.</p>
+<p><strong><a href="https://go.gov.sg/cpibpubliceducationtalks" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE TO PROCEED</a></strong>
+</p>
 <p></p>
