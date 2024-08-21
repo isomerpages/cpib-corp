@@ -40,7 +40,7 @@ Annual Steering Group Meetings held to discuss countries’ efforts to implement
 the Action Plan as well as the Initiative’s periodic Regional Conferences
 which gather policymakers, civil society and business sector representatives
 to assess progress and exchange ideas.</p>
-<p>Website: <a href="http://www.oecd.org/site/adboecdanti-corruptioninitiative/" rel="noopener noreferrer nofollow" target="_blank">http://www.oecd.org/site/adboecdanti-corruptioninitiative/</a>
+<p>Website: <a href="https://www.oecd.org/en/networks/global-engagement-on-anti-corruption-and-anti-bribery.html" rel="noopener noreferrer nofollow" target="_blank">https://www.oecd.org/en/networks/global-engagement-on-anti-corruption-and-anti-bribery.html</a>
 </p>
 <hr>
 <h3><strong>APEC Anti-Corruption and Transparency Experts’ Working Group (ACTWG)</strong></h3>
