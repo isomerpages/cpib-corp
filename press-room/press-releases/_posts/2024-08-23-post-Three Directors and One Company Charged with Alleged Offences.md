@@ -86,7 +86,7 @@ automation contract. In addition, ECT Asia faces two charges punishable
 under Section 54(5)(b) of the <em>CDSA</em>, for acquiring a total sum of
 S$70,550 which directly represents benefits from the alleged cheating offences
 arising from the marking up of the price of shuttle robots.</p>
-<p>13, Singapore adopts a strict zero-tolerance approach towards corruption.
+<p>13. Singapore adopts a strict zero-tolerance approach towards corruption.
 CPIB is fully committed to prevent, detect and take strong enforcement
 action against corruption and money laundering, as well as to the disgorgement
 of corrupt proceeds. Any person convicted of a corruption offence under
