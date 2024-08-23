@@ -17,7 +17,7 @@ Director of Henatenn Holdings Pte Ltd (“Henatenn”) at the material time;</p>
 <p>c) Quek Chin Hock Alex (“Alex”) (50-year-old male Singaporean), a Co-Director
 and shareholder of ECT Asia Pte Ltd at the material time; and</p>
 <p>d) ECT Asia Pte Ltd (“ECT Asia”).</p>
-<p><em>Alleged Corruption and Cheating Offences In Relation To A Warehouse Automation Contract </em>
+<p><em>Alleged Corruption and Cheating Offences In Relation To A Warehouse Automation Contract</em>
 </p>
 <p>2. Between 18 May and 7 December 2022, Alvin was alleged to have corruptly
 given Ashelyn and Alex a sum amounting to about S$67,485 over two occasions.
@@ -37,7 +37,7 @@ is amalgamated pursuant to Section 124(4) of the <em>Criminal Procedure Code</em
 Correspondingly, Alvin faces two charges under Section 6(b) of the <em>Prevention of Corruption Act</em> and
 one charge under Section 420 of the <em>Penal Code</em> which is amalgamated
 pursuant to Section 124(4) of the <em>Criminal Procedure Code</em>.</p>
-<p><em>Alleged Cheating Offences In Relation To The Purchase Of Shuttle Robots</em> 
+<p><em>Alleged Cheating Offences In Relation To The Purchase Of Shuttle Robots</em>
 </p>
 <p>5. Between 24 August and 21 December 2022, Alex and Alvin were alleged
 to have conspired with Ashelyn to cheat Henatenn by inflating the selling
@@ -56,7 +56,7 @@ is amalgamated pursuant to Section 124(4) of the <em>Criminal Procedure Code</em
 Correspondingly, Ashelyn and Alex each face two charges under Section 420
 read with Section 109 of the <em>Penal Code</em>, of which one charge is
 amalgamated pursuant to Section 124(4) of the <em>Criminal Procedure Code</em>.</p>
-<p><em>Alleged Cheating Offences In Relation To Fictitious Invoices</em> 
+<p><em>Alleged Cheating Offences In Relation To Fictitious Invoices</em>
 </p>
 <p>8. Sometime between 23 November 2021 to 1 December 2022, Alvin was alleged
 to have conspired with Alex to cheat Geekplus by submitting fictitious
@@ -121,5 +121,7 @@ management system to reduce corporate risk and costs related to bribery.</p>
 </p>
 </li>
 </ul>
+<p><sup>1</sup> Geekplus SG Pte Ltd is the Singapore based subsidiary of Geek
+Plus International Company Ltd, a Hong Kong incorporated company.</p>
 <p><strong>Corrupt Practices Investigation Bureau</strong>
 </p>
