@@ -121,7 +121,8 @@ management system to reduce corporate risk and costs related to bribery.</p>
 </p>
 </li>
 </ul>
-<p><sup>1</sup> Geekplus SG Pte Ltd is the Singapore based subsidiary of Geek
-Plus International Company Ltd, a Hong Kong incorporated company.</p>
 <p><strong>Corrupt Practices Investigation Bureau</strong>
 </p>
+<p><u>Footnote:</u>
+<br>1| Geekplus SG Pte Ltd is the Singapore based subsidiary of Geek Plus
+International Company Ltd, a Hong Kong incorporated company.</p>
