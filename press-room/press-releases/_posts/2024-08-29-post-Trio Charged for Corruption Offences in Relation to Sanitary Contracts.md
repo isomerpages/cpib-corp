@@ -9,13 +9,12 @@ variant: tiptap
 ---
 <p>On 29 August 2024, the following three individuals will be charged in
 Court for corruption offences:</p>
-<p><strong>a) Lee Chee Wan (“Lee”)</strong>&nbsp;(李志远, 54-year-old male,
-Singaporean), Director of Sanipro Marketing Pte Ltd (“Sanipro Marketing”)
-at the material time;</p>
-<p><strong>b) Low Sok Khim Cindy (“Low”)</strong>&nbsp;(刘淑琴, 48-year-old
-female, Singaporean), an employee of Sanipro Marketing at the material
-time; and</p>
-<p><strong>c) Thian Kai Chong (“Thian”)</strong>&nbsp;(程开忠, 55-year-old male,
+<p>a) <strong>Lee Chee Wan (“Lee”)</strong>&nbsp;(李志远, 54-year-old male, Singaporean),
+Director of Sanipro Marketing Pte Ltd (“Sanipro Marketing”) at the material
+time;</p>
+<p>b) <strong>Low Sok Khim Cindy (“Low”)</strong>&nbsp;(刘淑琴, 48-year-old female,
+Singaporean), an employee of Sanipro Marketing at the material time; and</p>
+<p>c) <strong>Thian Kai Chong (“Thian”)</strong>&nbsp;(程开忠, 55-year-old male,
 Singaporean), the Head of Sanitary Ware of Sanitus Building Supplies Pte
 Ltd (“Sanitus”) at the material time.</p>
 <p>2. From July 2013 to August 2021, Lee was alleged to have corruptly given
