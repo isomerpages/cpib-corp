@@ -7,8 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>On 29 August 2024, the following three individuals will be charged in
-Court for corruption offences:</p>
+<p>On 29 August 2024, the following three individuals were charged in Court
+for corruption offences:</p>
 <p>a) <strong>Lee Chee Wan (“Lee”)</strong>&nbsp;(李志远, 54-year-old male, Singaporean),
 Director of Sanipro Marketing Pte Ltd (“Sanipro Marketing”) at the material
 time;</p>
