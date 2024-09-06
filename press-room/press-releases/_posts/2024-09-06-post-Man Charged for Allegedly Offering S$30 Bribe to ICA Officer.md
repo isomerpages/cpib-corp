@@ -31,5 +31,6 @@ and can be reached via the following channels:</p>
 <p>a) Where, when and how did the alleged corrupt act happen?
 <br>b) Who was involved and what were their roles?
 <br>c) What was the bribe given and the favour shown?</p>
-<p></p>
+<p><strong>Corrupt Practices Investigation Bureau</strong>
+</p>
 <p></p>
