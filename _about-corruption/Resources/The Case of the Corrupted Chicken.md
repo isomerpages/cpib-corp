@@ -18,3 +18,5 @@ of her actions.</p>
 will be able to discuss and reflect if they should do the right thing even
 if no one is watching.</p>
 <p>Download the book here: The Case of the Corrupted Chicken</p>
+<p>If you have any feedback, we would like to hear from you at <a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@cpib.gov.sg</a>
+</p>
