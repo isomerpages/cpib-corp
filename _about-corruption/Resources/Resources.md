@@ -18,7 +18,7 @@ third_nav_title: Resources
 <div class="isomer-card-link">Click here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/about-corruption/resources/corruzione-web-game/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Corruzione" src="/images/corruzione_small.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corruzione Web Game</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="about-corruption/resources/the-case-of-the-corrupted-chicken/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/the-case-of-the-corrupted-chicken/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Thumbnail cover for The Case of the Corrupted Chicken" src="/images/The_Case_of_the_Corrupted_Chicken_thumbnail_4.png">
@@ -28,7 +28,7 @@ third_nav_title: Resources
 <div class="isomer-card-title">The Case of the Corrupted Chicken</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="about-corruption/resources/the-case-of-the-missing-cookies/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Thumbnail picture for The Case of the Missing Cookies" src="/images/The_Case_of_the_Missing_Cookies_thumbnail_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Case of the Missing Cookies</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/the-case-of-the-missing-cookies/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Thumbnail picture for The Case of the Missing Cookies" src="/images/The_Case_of_the_Missing_Cookies_thumbnail_3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Case of the Missing Cookies</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/about-corruption/resources/pact/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
