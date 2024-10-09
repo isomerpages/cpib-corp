@@ -2,6 +2,7 @@ collections:
   about-corruption:
     output: true
     order:
+      - Resources/The Case of the Corrupted Chicken.md
       - Resources/.keep
       - Resources/Resources.md
       - "Resources/Corruption Casebook 2: Hidden Victims of Corruption.md"
