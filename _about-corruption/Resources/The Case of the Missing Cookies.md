@@ -15,6 +15,7 @@ co-created with students from St Joseph's Institution and CPIB.</p>
 upon to solve the case of the missing cookies. Pre-schoolers can complete
 a series of fun activities to help Kopi solve the mystery and learn important
 lessons on honesty and integrity along the way.</p>
-<p>Download the book here: The Case of the Missing Cookies</p>
-<p>If you have any feedback, we would like to hear from you at <a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@cpib.gov.sg</a> 
+<p>Download the book here: <a href="/files/The_Case_of_the_Missing_Cookies.pdf" rel="noopener noreferrer nofollow" target="_blank">The Case of the Missing Cookies</a>
+</p>
+<p>If you have any feedback, we would like to hear from you at <a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@cpib.gov.sg</a>
 </p>
