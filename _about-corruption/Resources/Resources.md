@@ -21,7 +21,7 @@ third_nav_title: Resources
 <a rel="noopener noreferrer nofollow" href="https://www.cpib.gov.sg/the-case-of-the-corrupted-chicken/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Thumbnail cover for The Case of the Corrupted Chicken" src="/images/The_Case_of_the_Corrupted_Chicken_thumbnail_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Thumbnail cover for The Case of the Corrupted Chicken" src="/images/The_Case_of_the_Corrupted_Chicken_thumbnail_4.png">
 </div>
 </div>
 <div class="isomer-card-body">
