@@ -13,10 +13,9 @@ third_nav_title: Resources
 co-created with students from St Joseph's Institution and CPIB.</p>
 <p>This story tells of how a food stall owner decides to resort to dishonest
 means to win "The Best Food Stall" contest and eventually faces the consequences
-of her actions.</p>
-<p>With colorful illustrations and a series of interactive questions, pre-schoolers
-will be able to discuss and reflect if they should do the right thing even
-if no one is watching.</p>
+of her actions. With colorful illustrations and a series of interactive
+questions, pre-schoolers will be able to discuss and reflect if they should
+do the right thing even if no one is watching.</p>
 <p>Download the book here: <a href="https://go.gov.sg/the-case-of-the-corrupted-chicken" rel="noopener nofollow" target="_blank">The Case of the Corrupted Chicken</a>
 </p>
 <p>If you have any feedback, we would like to hear from you at <a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@cpib.gov.sg</a>
