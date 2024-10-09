@@ -2,13 +2,13 @@ collections:
   about-corruption:
     output: true
     order:
-      - Resources/The Case of the Missing Cookies.md
       - Resources/.keep
       - Resources/Resources.md
       - "Resources/Corruption Casebook 2: Hidden Victims of Corruption.md"
       - "Resources/Scrupulous, Thorough, Fearless: The CPIB Story.md"
       - Resources/Corruzione Web Game.md
       - Resources/The Case of the Corrupted Chicken.md
+      - Resources/The Case of the Missing Cookies.md
       - Resources/PACT.md
       - Resources/SS ISO 37001.md
       - Resources/Videos.md
