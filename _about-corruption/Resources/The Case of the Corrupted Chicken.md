@@ -9,7 +9,7 @@ third_nav_title: Resources
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cover of &quot;The Case of the Corrupted Chicken&quot; picture book" src="/images/The_Case_of_the_Corrupted_Chicken_cover.png">
 </div>
-<p>The Case of the Corrupted Chicken is a picture book for pre-schoolers,
+<p><em>The Case of the Corrupted Chicken</em> is a picture book for pre-schoolers,
 co-created with students from St Joseph's Institution and CPIB.</p>
 <p>This story tells of how a food stall owner decides to resort to dishonest
 means to win "The Best Food Stall" contest and eventually faces the consequences
