@@ -20,6 +20,28 @@ third_nav_title: Resources
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Downloadable for Kopi's Case Files" src="/images/Kopi_s_Case_Files_downloadable_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Colour &amp; Build Activity</strong>
+</p>
+<p></p>
+<p>This Colour &amp; Build Activity draws inspiration from CPIB's animated
+series "Kopi's Case Files", where characters face challenging situations
+that require tough decision-making.</p>
+<p></p>
+<p><em>This series is a collaborative project between CPIB and the students from the School of Design and Media at @weareNYP, which can be viewed on Youtube!</em>
+</p>
+<p></p>
+<p>Download at the link below:</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/resource__download_comic3.jpg">
 </div>
 </td>
