@@ -34,7 +34,7 @@ that require tough decision-making.</p>
 <p><em>This series is a collaborative project between CPIB and the students from the School of Design and Media at @weareNYP, which can be viewed on Youtube!</em>
 </p>
 <p></p>
-<p>Download at the link below:</p>
+<p>Download the Activity at the link below:</p>
 <p></p>
 <p><a href="https://go.gov.sg/downloadable-kopi-case-files-1" rel="noopener nofollow" target="_blank">Kopi's Case Files Downloadable 1</a>
 </p>
