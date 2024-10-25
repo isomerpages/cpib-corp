@@ -79,6 +79,4 @@ zero to 10, with zero being the best grade possible and 10 being the worst.</p>
 </tbody>
 </table>
 <p></p>
-<p>To learn more about Political &amp; Economic Risk Consultancy (PERC) Limited
-or to view the full Asian Intelligence Report, you can visit <a href="http://www.asiarisk.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.asiarisk.com/</a>
-</p>
+<p>\</p>
