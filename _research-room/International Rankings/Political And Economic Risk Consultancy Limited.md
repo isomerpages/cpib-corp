@@ -79,4 +79,3 @@ zero to 10, with zero being the best grade possible and 10 being the worst.</p>
 </tbody>
 </table>
 <p></p>
-<p>\</p>
