@@ -30,7 +30,7 @@ sections:
       description: Jointly published by the Singapore Police Force, the Central
         Narcotics Bureau, and the Corrupt Practices Investigation Bureau.
       button: LEARN MORE
-      url: /corruption-casebook-2-hidden-victims-of-corruption/
+      url: /singapore-s-law-enforcement-strategy-to-combat-money-laundering/
       image: /images/Singapore_s_Law_Enforcement_Strategy_to_Combat_Money_Laundering_2024_cover.png
       alt: Image alt text
   - infopic:
