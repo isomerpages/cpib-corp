@@ -7,7 +7,7 @@ third_nav_title: Publications
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore's Law Enforcement Strategy to Combat Money Laundering" src="/images/Singapore_s_Law_Enforcement_Strategy_to_Combat_Money_Laundering_2024_cover.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Singapore's Law Enforcement Strategy to Combat Money Laundering" src="/images/Singapore_s_Law_Enforcement_Strategy_to_Combat_Money_Laundering_2024_cover.png">
 </div>
 <p>The Singapore Police Force, the Central Narcotics Bureau, and the Corrupt
 Practices Investigation Bureau are the three law enforcement agencies responsible
