@@ -24,6 +24,16 @@ sections:
       title: Highlights
       button: VIEW ALL
   - infopic:
+      title: Law Enforcement Strategy to Combat Money Laundering
+      subtitle: PUBLICATIONS
+      id: infopic
+      description: Jointly published by the Singapore Police Force, the Central
+        Narcotics Bureau, and the Corrupt Practices Investigation Bureau.
+      button: LEARN MORE
+      url: /corruption-casebook-2-hidden-victims-of-corruption/
+      image: /images/Singapore_s_Law_Enforcement_Strategy_to_Combat_Money_Laundering_2024_cover.png
+      alt: Image alt text
+  - infopic:
       title: The Corruption Casebook 2
       subtitle: Resources
       description: features real-life cases and interactive activities which aim to
