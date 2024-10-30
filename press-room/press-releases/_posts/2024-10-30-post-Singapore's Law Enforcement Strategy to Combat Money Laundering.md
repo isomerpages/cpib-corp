@@ -71,7 +71,7 @@ Laundering.</p>
 </p>
 <p><strong>CORRUPT PRACTICES INVESTIGATION BUREAU</strong>
 </p>
-<p><strong>30 OCTOBER 2024 @ 2.35PM</strong>
+<p><strong>30 OCTOBER 2024 </strong>
 </p>
 <hr>
 <p><sup>1 </sup>Link to National AML Strategy: <a href="https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/amld/2024/singapore-national-aml-strategy.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/amld/2024/singapore-national-aml-strategy.pdf</a>
