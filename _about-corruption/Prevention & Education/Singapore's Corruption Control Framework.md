@@ -62,6 +62,6 @@ out the high standards of behaviour expected of public officers based on
 principles of integrity, incorruptibility and transparency. The practice
 of meritocracy in the Public Service, together with regular reviews of
 administrative rules and processes to improve efficiency also reduce the
-opportunities for corruption. In addition, the CPIB is mandated to conduct
-procedural reviews for government agencies which may have work procedures
-that can be exploited for corrupt practices.</p>
+opportunities for corruption. In the course of investigations involving
+government agencies, CPIB will also conduct procedural reviews to point
+out work areas or procedures that can be exploited for corrupt practices.</p>
