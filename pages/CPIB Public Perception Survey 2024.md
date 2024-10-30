@@ -16,3 +16,5 @@ name and photograph.</p>
 that NL is commissioned by the CPIB to conduct the survey, you may call
 the CPIB Quality Service Manager hotline at 1800-270-0855.</p>
 <p>We appreciate your support and participation. Thank you.</p>
+<p><strong>CORRUPT PRACTICES INVESTIGATION BUREAU</strong>
+</p>
