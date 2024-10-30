@@ -61,7 +61,7 @@ in tracing and recovering virtual assets</p>
 cross-border cash reporting regime</p>
 <p>4. Together with our AML stakeholders, the SPF, CNB, and CPIB will continue
 our efforts to enhance our enforcement capabilities and maintain Singapore’s
-reputation as a trusted financial centre and business hub. Please refer
+reputation as a trusted financial centre and business hub. Please click
 <a href="/files/Singapore_s_Law_Enforcement_Strategy_to_Combat_Money_Laundering_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>for a copy of Singapore’s Law Enforcement Strategy to Combat Money
 Laundering.</p>
 <p></p>
