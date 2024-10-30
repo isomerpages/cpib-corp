@@ -62,8 +62,8 @@ cross-border cash reporting regime</p>
 <p>4. Together with our AML stakeholders, the SPF, CNB, and CPIB will continue
 our efforts to enhance our enforcement capabilities and maintain Singapore’s
 reputation as a trusted financial centre and business hub. Please refer
-to <a href="https://go.gov.sg/leaamlstrategy2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/leaamlstrategy2024</a> for
-a copy of Singapore’s Law Enforcement Strategy to Combat Money Laundering.</p>
+<a href="/files/Singapore_s_Law_Enforcement_Strategy_to_Combat_Money_Laundering_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>for a copy of Singapore’s Law Enforcement Strategy to Combat Money
+Laundering.</p>
 <p></p>
 <p><strong>SINGAPORE POLICE FORCE</strong>
 </p>
@@ -76,4 +76,5 @@ a copy of Singapore’s Law Enforcement Strategy to Combat Money Laundering.</p>
 <hr>
 <p><sup>1 </sup>Link to National AML Strategy: <a href="https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/amld/2024/singapore-national-aml-strategy.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/amld/2024/singapore-national-aml-strategy.pdf</a>
 </p>
-<p><sup>2 </sup>Link to 2024 ML NRA: <a rel="noopener noreferrer nofollow" target="_blank">https://www.mha.gov.sg/docs/default-source/default-document-library/ml-nra-v2.pdf?sfvrsn=72def874_1</a>.</p>
+<p><sup>2 </sup>Link to 2024 ML NRA: <a rel="noopener noreferrer nofollow" target="_blank">https://www.mha.gov.sg/docs/default-source/default-document-library/ml-nra-v2.pdf?sfvrsn=72def874_1</a>
+</p>
