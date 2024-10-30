@@ -11,14 +11,14 @@ third_nav_title: Publications
 </div>
 <p>The Singapore Police Force, the Central Narcotics Bureau, and the Corrupt
 Practices Investigation Bureau are the three law enforcement agencies responsible
-for investigating money laundering in Singapore. To tackle the key threats
-identified in the 2024 Money Laundering National Risk Assessment and support
-Singapore's anti-money laundering strategy, the agencies have identified
-key focus areas to prioritise money laundering and guide investigations.
-This enables law enforcement to keep pace with the evolving risks and typologies
-of money laundering and take firm enforcement action against criminals
-seeking to launder their proceeds of crime through Singapore's financial
-system.</p>
+for investigating money laundering in Singapore.</p>
+<p>To tackle the key threats identified in the 2024 Money Laundering National
+Risk Assessment and support Singapore's anti-money laundering strategy,
+the agencies have identified key focus areas to prioritise money laundering
+and guide investigations. This enables law enforcement to keep pace with
+the evolving risks and typologies of money laundering and take firm enforcement
+action against criminals seeking to launder their proceeds of crime through
+Singapore's financial system.</p>
 <p>Click <a href="/files/Singapore_s_Law_Enforcement_Strategy_to_Combat_Money_Laundering_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download Singapore's Law Enforcement Strategy to Combat Money Laundering.</p>
 <p></p>
