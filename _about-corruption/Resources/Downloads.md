@@ -32,7 +32,7 @@ third_nav_title: Resources
 </p>
 <p></p>
 <p>These Colour &amp; Build Activities draw inspiration from Episode 1 and
-2 of CPIB's animated series "Kopi's Case Files", where characters face
+2 of CPIB's animated series "Kopi's Case Files", where the characters face
 challenging situations that require tough decision-making.</p>
 <p></p>
 <p><em>This series is a collaborative project between CPIB and the students from the School of Design and Media at @weareNYP, which can be viewed on Youtube!</em>
@@ -40,7 +40,9 @@ challenging situations that require tough decision-making.</p>
 <p></p>
 <p>Download the Activities at the link below:</p>
 <p></p>
-<p><a href="https://go.gov.sg/downloadable-kopi-case-files-1" rel="noopener nofollow" target="_blank">Kopi's Case Files Episode 1 Downloadable </a>
+<p><a href="https://go.gov.sg/downloadable-kopi-case-files-1" rel="noopener nofollow" target="_blank">Kopi's Case Files Downloadable 1</a>
+</p>
+<p><a href="https://go.gov.sg/downloadable-kopi-case-files-2" rel="noopener nofollow" target="_blank">Kopi's Case Files Downloadable 2</a>
 </p>
 </td>
 </tr>
