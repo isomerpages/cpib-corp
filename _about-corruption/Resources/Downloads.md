@@ -20,11 +20,12 @@ third_nav_title: Resources
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kopi's Case Files Episode 2 Downloadable" src="/images/Downloadable_for_Kopi_s_case_files_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Kopi's Case Files Episode 1 Downloadable" src="/images/Kopi_s_Case_Files_downloadable_1.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kopi's Case Files Episode 1 Downloadable" src="/images/Kopi_s_Case_Files_downloadable_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Kopi Case Files 2 Downloadable" src="/images/Downloadable_for_Kopi_s_case_files_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
