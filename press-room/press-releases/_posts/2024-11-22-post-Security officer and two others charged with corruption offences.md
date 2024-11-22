@@ -25,8 +25,7 @@ of which 10 charges are amalgamated pursuant to Section 124(4) and 124(8)
 of the <em>Criminal Procedure Code</em>. Correspondingly, Roslan and Theku
 each face four charges under Section 6(b) read with Section 29(a) of the <em>Prevention of Corruption Act</em>,
 of which two charges are amalgamated pursuant to Section 124(4) and 124(8)
-of the <em>Criminal Procedure Code</em>. To combat corruption through swift
-and sure, firm but fair action.</p>
+of the <em>Criminal Procedure Code</em>.</p>
 <p>4. Singapore adopts a strict zero-tolerance approach towards corruption.
 Any person convicted of a corruption offence under Section 6 of the <em>Prevention of Corruption Act</em> can
 be fined up to S$100,000 or sentenced to imprisonment of up to five years
