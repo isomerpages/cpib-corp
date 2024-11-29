@@ -51,7 +51,7 @@ may also face disqualification from driving all classes of vehicles.</p>
 <p>7. CPIB looks into all corruption-related complaints and reports, <strong><u>including anonymous ones</u></strong>,
 and can be reached via the following channels:
 <br>a) Lodge an <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener nofollow" target="_blank">e-Complaint</a>;
-<br>b) Email us at <a href="report@cpib.gov.sg" rel="noopener nofollow" target="_blank">report@cpib.gov.sg</a>;&nbsp;
+<br>b) Email us at <a href="mailto:report@cpib.gov.sg" rel="noopener nofollow" target="_blank">report@cpib.gov.sg</a>;&nbsp;
 <br>c) Call the Duty Officer at <a href="tel:1800-376-0000" rel="noopener nofollow" target="_blank">1800-376-0000</a>; or
 <br>d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.</p>
 <p></p>
