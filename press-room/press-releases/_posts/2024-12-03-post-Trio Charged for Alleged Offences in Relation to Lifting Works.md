@@ -55,9 +55,9 @@ and can be reached via the following channels:
 <br>b) Email us at <a href="mailto:report@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a>;&nbsp;
 <br>c) Call the Duty Officer at <a href="tel:1800-376-0000" rel="noopener nofollow" target="_blank"><u>1800-376-0000</u></a>; or
 <br>d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.</p>
-<p>8. Where possible, the report should include the following information:</p>
-<p>a) Where, when and how did the alleged corrupt act happen?</p>
-<p>b) Who was involved and what were their roles?</p>
-<p>c) What was the bribe given and the favour shown?</p>
+<p>8. Where possible, the report should include the following information:
+<br>a) Where, when and how did the alleged corrupt act happen?
+<br>b) Who was involved and what were their roles?
+<br>c) What was the bribe given and the favour shown?</p>
 <p><strong>Corrupt Practices Investigation Bureau</strong>
 </p>
