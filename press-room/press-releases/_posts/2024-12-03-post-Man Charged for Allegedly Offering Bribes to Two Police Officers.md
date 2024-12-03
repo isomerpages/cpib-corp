@@ -20,7 +20,8 @@ For his alleged actions, Xu faces two charges punishable under Section
 Any person convicted of a corruption offence under Section 6 of the <em>Prevention of Corruption Act</em> can
 be fined up to S$100,000 or sentenced to imprisonment of up to five years
 or both.</p>
-<p>4. CPIB looks into all corruption-related complaints and reports, including <strong><u>anonymous ones</u></strong>,
+<p>4. The Corrupt Practices Investigation Bureau (CPIB) looks into all corruption-related
+complaints and reports, including <strong><u>anonymous ones</u></strong>,
 and can be reached via the following channels:</p>
 <p>a) Lodge an <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank"><u>e-Complaint</u></a>;
 <br>b) Email us at <a href="mailto:report@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a>;&nbsp;
