@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>On 3 December 2024, the following three individuals were charged in Court
-for alleged offences under the Prevention of Corruption Act and Penal Code:</p>
+for alleged offences under the <em>Prevention of Corruption Act</em> and <em>Penal Code</em>:</p>
 <p>a) <strong>Remy bin Hashim (“Remy”)</strong> (52-year-old male Singaporean),
 Lifting Superintendent of Exyte Singapore Pte Ltd (“Exyte”) at the material
 time;</p>
@@ -33,7 +33,7 @@ company.</p>
 <p>3. For their actions, Remy faces four charges punishable under Section
 6(a) and 6(b) of the <em>Prevention of Corruption Act</em>, while Rahman
 faces two charges of corruptly accepting and obtaining gratification punishable
-under Section 6(a) of the Prevention of Corruption Act.</p>
+under Section 6(a) of the <em>Prevention of Corruption Act</em>.</p>
 <p><em>Alleged Misappropriation Offences</em>
 </p>
 <p>4. On at least six occasions between October and November 2022, Remy and
