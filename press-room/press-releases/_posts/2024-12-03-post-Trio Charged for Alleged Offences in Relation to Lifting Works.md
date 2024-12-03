@@ -49,7 +49,8 @@ be fined up to S$100,000 or sentenced to imprisonment of up to five years
 or both. Any person convicted of an offence under Section 403 of the <em>Penal Code</em> can
 be sentenced to imprisonment of up to two years, or liable to a fine, or
 both.</p>
-<p>7. CPIB looks into all corruption-related complaints and reports, <strong><u>including anonymous ones</u></strong>,
+<p>7. The Corrupt Practices Investigation Bureau (CPIB) looks into all corruption-related
+complaints and reports, <strong><u>including anonymous ones</u></strong>,
 and can be reached via the following channels:
 <br>a) Lodge an <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener nofollow" target="_blank"><u>e-Complaint</u></a>;
 <br>b) Email us at <a href="mailto:report@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a>;&nbsp;
