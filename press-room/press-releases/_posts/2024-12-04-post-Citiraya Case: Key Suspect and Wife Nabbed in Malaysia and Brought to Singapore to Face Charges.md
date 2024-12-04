@@ -54,9 +54,24 @@ cooperation between CPIB and MACC. There is zero-tolerance and no safe
 haven for those who choose to break our laws by engaging in corrupt or
 criminal activities. CPIB will spare no effort to track them down wherever
 they may hide and bring them to face justice in Singapore.”&nbsp; &nbsp;&nbsp;</p>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <p><sup>1 </sup><em>Citiraya was in the business of recycling and recovering precious metals from electronic scrap. Citiraya has since changed its name to Centillion Environment &amp; Recyclin</em>g
 Ltd.</p>
+<p></p>
+<p></p>
+<p><strong><u>Annex A</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Photo_1.jpg">
+</div>
+<p><strong>Photo 1 (CPIB): Ng Teck Lee (in the middle) in CPIB’s custody on 3 December 2024.</strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Photo_2.jpg">
+</div>
+<p><strong>Photo 2 (CPIB): Thor Chwee Hwa (on the right) in CPIB’s custody on 3 December 2024.</strong>
+</p>
