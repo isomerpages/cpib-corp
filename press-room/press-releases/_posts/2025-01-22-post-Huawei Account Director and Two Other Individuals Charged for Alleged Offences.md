@@ -10,12 +10,12 @@ variant: tiptap
 ---
 <p>On 22 January 2025, the following three individuals were charged in Court
 for alleged offences under the <em>Prevention of Corruption Act </em>and <em>Penal Code</em>:</p>
-<p>a)&nbsp;&nbsp;&nbsp; <strong>Peng Ming</strong> (“Peng”) (彭明, 39-year-old
-male Singaporean), Account Director at Huawei International Pte Ltd (“Huawei”)
-at the material time;</p>
-<p>b)&nbsp;&nbsp;&nbsp; <strong>Ng Kah Siang</strong> (“Ng”) (黄家祥, 37-year-old
-male Singaporean), Engineer at Integrated Health Systems Information Pte
-Ltd (“IHiS”) at the material time; and</p>
+<p>a) <strong>Peng Ming</strong> (“Peng”) (彭明, 39-year-old male Singaporean),
+Account Director at Huawei International Pte Ltd (“Huawei”) at the material
+time;</p>
+<p>b) <strong>Ng Kah Siang</strong> (“Ng”) (黄家祥, 37-year-old male Singaporean),
+Engineer at Integrated Health Systems Information Pte Ltd (“IHiS”) at the
+material time; and</p>
 <p>c) <strong>Chiang Chee Seng</strong> (“Chiang”) (蔣志成, 50-year-old male Singaporean),
 Senior Sales Director at Nera Telecommunications Ltd (“Nera”) at the material
 time.</p>
