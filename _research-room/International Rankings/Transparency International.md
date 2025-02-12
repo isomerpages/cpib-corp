@@ -45,17 +45,6 @@ of the least corrupt countries in the world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4/180</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>85/100</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,6 +63,17 @@ of the least corrupt countries in the world.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>83/100</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3/180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>84/100</p>
 </td>
 </tr>
 </tbody>
