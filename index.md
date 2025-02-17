@@ -4,9 +4,8 @@ title: Corrupt Practices Investigation Bureau
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: CPIB will be conducting a Public Perception Survey from November
-  2024 to January 2025.<b><a href="/cpib-public-perception-survey-2024/"> Click
-  to read more. </a></b>
+notification: Advisory on Impersonation Scam Involving CPIB. <b><a
+  href="/advisory/"> Click to read more. </a></b>
 sections:
   - hero:
       title: Seen or Suspect Something?
