@@ -53,4 +53,3 @@ the report should include the following information:</p>
 <br>c) What was the bribe given and the favour shown?</p>
 <p><strong>Corrupt Practices Investigation Bureau</strong>
 </p>
-<p>?</p>
