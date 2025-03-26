@@ -14,9 +14,9 @@ for alleged offences under the <em>Prevention of Corruption Act</em>:</p>
 <p>a) <strong>Goh Jong Lih </strong>(“Goh”) (吴鎔利, 61-year-old female Singaporean),
 Operations Manager at St Anthony’s Canossian Secondary School (“SACSS”)
 at the material time; and</p>
-<p>b)&nbsp;&nbsp;&nbsp; <strong>Loo Wei Kiat</strong> (“Loo”) (吕炜杰, 45-year-old
-male Singaporean), Director of Advent Solutions &amp; Projects Pte Ltd
-(“AS&amp;P”) at the material time.</p>
+<p>b)&nbsp;<strong>Loo Wei Kiat</strong> (“Loo”) (吕炜杰, 45-year-old male Singaporean),
+Director of Advent Solutions &amp; Projects Pte Ltd (“AS&amp;P”) at the
+material time.</p>
 <p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On six occasions
 between February 2020 and December 2021, Goh allegedly obtained bribes
 in the form of loans totalling S$9,500 from Loo, as inducements to advance
