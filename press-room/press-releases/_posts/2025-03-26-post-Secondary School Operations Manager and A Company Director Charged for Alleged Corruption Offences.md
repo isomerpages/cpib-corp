@@ -39,9 +39,10 @@ be fined up to S$100,000 or sentenced to imprisonment of up to five years
 or both. Any person convicted of an offence amalgamated under Section 124(4)
 read with Section 124(8)(a)(ii) of the <em>Criminal Procedure Code</em> can
 face two times the amount of punishment liable for that offence.</p>
-<p>5 The Corrupt Practices Investigation Bureau (CPIB) looks into all corruption-related
-complaints and reports, <strong><u>including anonymous ones</u></strong>,
-and can be reached via the following channels:</p>
+<p>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Corrupt Practices
+Investigation Bureau (CPIB) looks into all corruption-related complaints
+and reports, <strong><u>including anonymous ones</u></strong>, and can be
+reached via the following channels:</p>
 <p>a) Lodge an <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener nofollow" target="_blank"><u>e-Complaint</u></a>;
 <br>b) Email us at <a href="mailto:report@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a>;&nbsp;
 <br>c) Call the Duty Officer at 1800-376-0000; or
