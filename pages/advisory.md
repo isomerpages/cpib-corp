@@ -28,7 +28,7 @@ number, passport details, contact details, bank credentials and One-Time
 Password to the requestor.</p>
 </li>
 </ul>
-<p>4. RAs a reminder, Government officials will <strong><u>never</u></strong> do
+<p>4. As a reminder, Government officials will <strong><u>never</u></strong> do
 these things over a message or phone call:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -52,8 +52,8 @@ he/she has your personal information.</p>
 <p>7. If you have any information on suspected scams involving the impersonation
 of CPIB or its officers, please call the CPIB hotline at 1800-376-0000*,
 the Police hotline at 1800-255-0000* or submit it online at <a rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg/iwitness</a>.</p>
-<p>8. For more information on scams, members of the public can visit <a rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a> or
-call the 24/7 ScamShield Helpline at 1799.</p>
+<p>8. For more information on scams, members of the public can visit <a rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a> or call the
+24/7 ScamShield Helpline at 1799.</p>
 <p>*Airtime charges apply for mobile calls made to "1800" local toll-free
 service numbers.
 <br>** Exceptions apply for National Service call-ups and emergency services.
