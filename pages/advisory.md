@@ -57,7 +57,7 @@ the Police hotline at 1800-255-0000* or submit it online at <a rel="noopener nor
 <p>*Airtime charges apply for mobile calls made to "1800" local toll-free
 service numbers.
 <br>** Exceptions apply for National Service call-ups and emergency services.
-read more about the exceptions at <a href="http://www.sms.gov.sg/exceptions" rel="noopener noreferrer nofollow" target="_blank">www.sms.gov.sg/exceptions</a>.</p>
+Read more about the exceptions at <a href="http://www.sms.gov.sg/exceptions" rel="noopener noreferrer nofollow" target="_blank">www.sms.gov.sg/exceptions</a>.</p>
 <p><strong>CORRUPT PRACTICES INVESTIGATION BUREAU</strong>
 </p>
 <p></p>
