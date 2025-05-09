@@ -32,7 +32,7 @@ you with your queries.</p>
 <p>The e-Complaint will require 5-10 minutes to complete. Once submitted,
 your e-Complaint will be processed within 10 working days.</p>
 <p></p>
-<p><strong><a href="https://form.gov.sg/#!/5fcdfa1f8bdc8100119015e9" class="button_special" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE TO REPORT</a></strong>
+<p><strong><a href="https://go.gov.sg/reportcorruption" class="button_special" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE TO REPORT</a></strong>
 </p>
 <h4><strong>CONFIDENTIALITY OF YOUR IDENTITY</strong></h4>
 <p>Under the law, the identity of the person making the report will be kept
