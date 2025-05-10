@@ -7,14 +7,15 @@ variant: tiptap
 </p>
 <p>The Corrupt Practices Investigation Bureau (CPIB) is aware of an impersonation
 scam involving the Bureau.</p>
-<p>2. In a recent incident, a member of public received a suspected scam
-text message from a handphone number purporting to be from CPIB, instructing
-to wire funds into a bank account belonging to a CPIB Investigation Officer.
-We would like to clarify that the text message was <u>not</u> sent by CPIB.</p>
-<p>3. Members of the public are advised to take the following precautions:</p>
+<p>2. In this incident, a member of public received several calls purportedly
+from a CPIB officer. The caller apparently knew the last 3 digits of the
+member of public’s NRIC number. We would like to clarify that the calls
+were <u>not</u> made by any CPIB officers.</p>
+<p>3. Members of the public are advised to take the following precautions
+should they receive calls from suspected scammers:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ignore the message and the requestor’s instructions.</p>
+<p>Ignore the call and the requestor’s instructions.</p>
 </li>
 <li>
 <p>Call CPIB’s hotline at 1800-376-0000* for assistance to verify the authenticity
@@ -28,7 +29,7 @@ number, passport details, contact details, bank credentials and One-Time
 Password to the requestor.</p>
 </li>
 </ul>
-<p>4. As a reminder, Government officials will <strong><u>never</u></strong> do
+<p>4. As a reminder, Government officials will NEVER<strong> </strong>do
 these things over a message or phone call:</p>
 <ul data-tight="true" class="tight">
 <li>
