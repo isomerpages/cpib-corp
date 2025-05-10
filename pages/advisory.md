@@ -29,7 +29,7 @@ number, passport details, contact details, bank credentials and One-Time
 Password to the requestor.</p>
 </li>
 </ul>
-<p>4. As a reminder, Government officials will NEVER<strong><u> </u></strong>do
+<p>4. As a reminder, Government officials will NEVER<strong> </strong>do
 these things over a message or phone call:</p>
 <ul data-tight="true" class="tight">
 <li>
