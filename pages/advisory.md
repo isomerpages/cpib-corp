@@ -7,10 +7,13 @@ variant: tiptap
 </p>
 <p>The Corrupt Practices Investigation Bureau (CPIB) is aware of an impersonation
 scam involving the Bureau.</p>
-<p>2. In this incident, a member of public received several calls purportedly
-from a CPIB officer. The caller apparently knew the last 3 digits of the
-member of public’s NRIC number. We would like to clarify that the calls
-were <u>not</u> made by any CPIB officers.</p>
+<p>2. In this impersonation incident, a member of public was informed that
+she was being investigated by a foreign police officer and CPIB for purported
+money laundering offences. The member of public also received a letter
+and met up with an individual, both purportedly from CPIB. She was subsequently
+instructed via a letter supposedly from the Immigration &amp; Checkpoints
+Authority (ICA) to pay a bail amount of S$100,000, failing which the member
+of public would be extradited to a foreign country.</p>
 <p>3. Members of the public are advised to take the following precautions
 should they receive calls from suspected scammers:</p>
 <ul data-tight="true" class="tight">
