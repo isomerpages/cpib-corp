@@ -76,6 +76,17 @@ zero to 10, with zero being the best grade possible and 10 being the worst.</p>
 <p>2.09</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
