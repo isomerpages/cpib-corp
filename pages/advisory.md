@@ -55,9 +55,9 @@ number) to appear legitimate. Do not automatically trust someone just because
 he/she has your personal information.</p>
 <p>7. If you have any information on suspected scams involving the impersonation
 of CPIB or its officers, please call the CPIB hotline at 1800-376-0000*,
-the Police hotline at 1800-255-0000* or submit it online at <a rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg/iwitness</a>.</p>
-<p>8. For more information on scams, members of the public can visit <a rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a> or call the
-24/7 ScamShield Helpline at 1799.</p>
+the Police hotline at 1800-255-0000* or submit it online at <a href="www.police.gov.sg/iwitness" rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg/iwitness</a>.</p>
+<p>8. For more information on scams, members of the public can visit <a href="www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a> or
+call the 24/7 ScamShield Helpline at 1799.</p>
 <p>*Airtime charges apply for mobile calls made to "1800" local toll-free
 service numbers.
 <br>** Exceptions apply for National Service call-ups and emergency services.
