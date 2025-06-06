@@ -4,12 +4,8 @@ title: Corrupt Practices Investigation Bureau
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Government officials will NEVER ask you to transfer money or
-  disclose bank long-in details over a phone call. Call the 24/7 ScamSchield
-  Helpline at 1799 if you are unsure if something is a scam. For details, visit
-  the <a href="https://www.scamshield.gov.sg">ScamShield website.</a> Advisory
-  on Impersonation Scam Involving CPIB. <b><a href="/advisory/"> Click to read
-  more. </a></b>
+notification: Advisory on Impersonation Scam Involving CPIB. <b><a
+  href="/advisory/"> Click to read more. </a></b>
 sections:
   - hero:
       title: Seen or Suspect Something?
