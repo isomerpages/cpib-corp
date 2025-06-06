@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Government officials will NEVER ask you to transfer money or
-  disclose bank long-in details over a phone call. Call the 24/7 ScamShield
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam. For more details,
   visit the <b><a href="https://www.scamshield.gov.sg">ScamShield
   website.</a></b> Advisory on government official impersonation scam. <b><a
