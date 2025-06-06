@@ -7,8 +7,8 @@ permalink: /
 notification: Government officials will NEVER ask you to transfer money or
   disclose bank long-in details over a phone call. Call the 24/7 ScamSchield
   Helpline at 1799 if you are unsure if something is a scam. For details, visit
-  the <a href="https://www.scamshield.gov.sg">Scamshield.</a> Advisory on
-  Impersonation Scam Involving CPIB. <b><a href="/advisory/"> Click to read
+  the <a href="https://www.scamshield.gov.sg">ScamShield website.</a> Advisory
+  on Impersonation Scam Involving CPIB. <b><a href="/advisory/"> Click to read
   more. </a></b>
 sections:
   - hero:
