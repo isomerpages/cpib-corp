@@ -29,6 +29,6 @@ to learn about:</p>
 information on the issue.
 <br>
 </p>
-<p><strong><a href="https://go.gov.sg/cpibpubliceducationtalks" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE TO PROCEED</a></strong>
+<p><strong><a href="https://form.gov.sg/68635b2114b5204fa80c7227" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE TO PROCEED</a></strong>
 </p>
 <p></p>
