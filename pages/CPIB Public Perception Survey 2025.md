@@ -6,7 +6,7 @@ description: ""
 ---
 <p>The Corrupt Practices Investigation Bureau (CPIB) is conducting a <strong>Public Perception Survey</strong> to
 find out the general public's awareness and perception of the corruption
-in Singapore and CPIB's anti-corruption work. <strong>The survey will be carried out from July to September 2025</strong>.</p>
+situation in Singapore and CPIB's anti-corruption work. <strong>The survey will be carried out from July to September 2025</strong>.</p>
 <p>An independent market research agency, <strong>Blackbox Research Pte Ltd</strong>  <strong>(Blackbox)</strong> has
 been appointed to conduct the survey during the mentioned period. All interviewers
 will bear an <strong>authorisation letter</strong> issued by the CPIB and
