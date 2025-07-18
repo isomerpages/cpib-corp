@@ -13,7 +13,9 @@ to these individuals as investigations by the Corrupt Practices Investigation
 Bureau (CPIB) revealed that these five Chinese nationals committed the
 corruption offence(s) in order to obtain Special Passes to prolong their
 stay in Singapore so that they could sell illegal Sex Enhancement Medications
-while on bail. Investigations with respect to the scheme are ongoing.</p>
+while on bail. CPIB investigations further revealed that they had also
+paid their bailors to facilitate their bail and subsequent bail extensions.
+Investigations with respect to the scheme are ongoing.</p>
 <p>(a) <strong>Xiao Xiezhi (“Xiezhi”)</strong> (肖撷知, 43-year-old male Chinese
 National) who, on 22 January 2025, allegedly offered bribes amounting to
 S$400 to three National Environment Agency (NEA) enforcement officers Muhammad
@@ -23,6 +25,7 @@ action against him. Xiezhi was allegedly smoking under a bus stop shelter,
 which is a non-designated smoking area. The NEA enforcement officers rejected
 the bribes. For his alleged actions, Xiezhi faces three charges punishable
 under section 6(b) of the <em>Prevention of Corruption Act</em>.</p>
+<p></p>
 <p>(b) <strong>Xu, Zhishen (“Zhishen”)</strong> (许志深, 37-year-old male Chinese
 National) who, on 27 April 2025, allegedly offered a bribe of S$119 to
 two Singapore Police Force (SPF) officers, Tan Jun Sheng, Keown and Abdul
