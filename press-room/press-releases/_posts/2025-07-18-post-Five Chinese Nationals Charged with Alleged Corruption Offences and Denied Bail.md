@@ -25,7 +25,6 @@ action against him. Xiezhi was allegedly smoking under a bus stop shelter,
 which is a non-designated smoking area. The NEA enforcement officers rejected
 the bribes. For his alleged actions, Xiezhi faces three charges punishable
 under section 6(b) of the <em>Prevention of Corruption Act</em>.</p>
-<p></p>
 <p>(b) <strong>Xu, Zhishen (“Zhishen”)</strong> (许志深, 37-year-old male Chinese
 National) who, on 27 April 2025, allegedly offered a bribe of S$119 to
 two Singapore Police Force (SPF) officers, Tan Jun Sheng, Keown and Abdul
@@ -34,7 +33,7 @@ from taking enforcement action against him and to allow him to leave the
 incident location. The SPF officers rejected the bribes. For his alleged
 action, Zhishen faces two charges punishable under Section 6(b) of the <em>Prevention of Corruption Act</em>.</p>
 <p>(c) <strong>Xu Bixin (“Bixin”)</strong> (许壁歆, 31-year-old male Chinese National)
-who, on 3 May 2025, allegedly offered a bribed of S$70 to a SPF officer,
+who, on 3 May 2025, allegedly offered a bribe of S$70 to a SPF officer,
 Jacqueline Toh Xin Yi, as an inducement for her to refrain from conducting
 an identity check on Bixin. The SPF officer rejected the bribe. For his
 alleged action, Bixin faces one charge punishable under Section 6(b) of
