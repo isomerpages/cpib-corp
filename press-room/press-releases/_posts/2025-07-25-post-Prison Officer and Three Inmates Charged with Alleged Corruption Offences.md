@@ -32,6 +32,10 @@ charges are read with Section 29(a) of the said act. Ang and Murali each
 face one charge for an offence punishable under Section 6(b) read with
 Section 29(a) of the <em>Prevention of Corruption Act</em>. Murali’s charge
 is an amalgamated charge pursuant to Section 124(4) of the <em>Criminal Procedure Code</em>.</p>
+<p>4 Singapore adopts a strict zero-tolerance approach towards corruption.
+Any person convicted of a corruption offence under Section 6 of the&nbsp;<em>Prevention of Corruption Act</em>&nbsp;can
+be fined up to S$100,000 or sentenced to imprisonment not exceeding five
+years or to both.</p>
 <p>5. CPIB looks into all corruption-related complaints and reports, <strong><u>including anonymous ones</u></strong>,
 and can be reached via the following channels:</p>
 <p>a) Lodge an <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener nofollow" target="_blank"><u>e-Complaint</u></a>;
