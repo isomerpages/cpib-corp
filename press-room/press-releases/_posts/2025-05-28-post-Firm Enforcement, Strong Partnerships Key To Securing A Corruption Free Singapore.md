@@ -35,6 +35,7 @@ for investigation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_1.png">
 </div>
+<p></p>
 <p>2.&nbsp;CPIB treats all reports received seriously regardless of whether
 the complainant is named or anonymous. Of the 177 corruption-related reports
 received in 2024, 61 (34%) were anonymous. Of the 75 cases registered for
@@ -46,8 +47,9 @@ were from the private sector (Figure 2). Public sector cases accounted
 for 9% of all cases registered for investigation in 2024. Seven public
 sector cases were registered in 2024, which was fewer than the annual average
 (11 cases) of the preceding four years.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PR_stats.png">
 </div>
 <p>4.&nbsp;Of the 68 private sector cases, 12 cases (18%) involved public
 sector employees rejecting bribes offered by private sector individuals<sup>1</sup>.
