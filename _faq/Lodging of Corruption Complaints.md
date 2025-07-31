@@ -16,8 +16,8 @@ to use the following channels to reach us:
 <br>a) Write to us at 2 Lengkok Bahru, Singapore 159047
 <br>b) Call CPIB Duty Officer at 1800-376-0000*
 <br>c) Lodge an <a href="https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank"><u>e-complaint</u></a> 
-<br>d) Email us at: <a href="mailto:report@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a> 
-<br>e) Fax to us at: 6270 0320</p>
+<br>d) Email us at: <a href="mailto:report@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>report@cpib.gov.sg</u></a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
