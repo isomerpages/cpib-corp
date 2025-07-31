@@ -65,7 +65,7 @@ description: Contact Us
 <br>Local: 1800-376-0000*
 <br>Overseas: (+65) 6376-0000</p>
 <p></p>
-<p><em>If you reach out to our duty officer between 10pm to 6am, please leave a voice message for us to return your call.</em>
+<p><em>If you reach out to our duty officer outside our operating hours, please leave a voice message for us to return your call.</em>
 </p>
 <p></p>
 <p><em>An appointment may be scheduled with the Duty Officer where required.</em>
