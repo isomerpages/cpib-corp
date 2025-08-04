@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Conditional Warning Issued to Keppel Offshore & Marine Ltd"
+title: Conditional Warning Issued to Keppel Offshore & Marine Ltd
 permalink: /press-room/press-releases/conditional-warning-issued-keppel-offshore-marine-ltd/
+variant: markdown
 ---
 On 23 December 2017, Keppel Offshore & Marine Ltd (“KOM”) was served a conditional warning (“Conditional Warning”) in lieu of prosecution, for corruption offences punishable under Section 5(b)(i) of the Prevention of Corruption Act, Chapter 241 (“PCA”).
 
@@ -15,4 +16,5 @@ On 23 December 2017, Keppel Offshore & Marine Ltd (“KOM”) was served a condi
 
 6\.           Investigations in respect of the individuals involved are ongoing.
 
+**Attorney-General's Chambers**  
 **Corrupt Practices Investigation Bureau**
