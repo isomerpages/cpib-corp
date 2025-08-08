@@ -12,7 +12,7 @@ variant: tiptap
 for offences under the Prevention of Corruption Act (PCA), Official Secrets
 Act (OSA) and Customs Act (CA):</p>
 <p>a)&nbsp;&nbsp;&nbsp; <strong>Muhammad Sukaimi Bin Gasali</strong> (“Sukaimi”)
-(34-year-old male Singaporean)</p>
+(34-year-old male Singaporean);</p>
 <p>b)&nbsp;&nbsp;&nbsp; <strong>Sri Daniah Binte Abdul Razak</strong> (“Daniah”)
 (26-year-old female Singaporean), Security Officer employed by Certis and
 contracted by the Immigration and Checkpoints Authority (ICA) at the material
