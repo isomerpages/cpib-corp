@@ -155,5 +155,9 @@ committed to enforcing strict compliance with customs regulations and protecting
 revenue. Members of public with information on smuggling activities or
 duty or GST evasion can report it to Customs at <a href="https://go.gov.sg/reportcustomsoffence" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/reportcustomsoffence</a>.</p>
 <p><strong>Corrupt Practices Investigation Bureau</strong>
+</p>
+<p><strong>Singapore Customs</strong>
+</p>
+<p>
 <br>
 </p>
