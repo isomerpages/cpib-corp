@@ -153,7 +153,7 @@ should include the following information:</p>
 <p>11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Customs remains
 committed to enforcing strict compliance with customs regulations and protecting
 revenue. Members of public with information on smuggling activities or
-duty or GST evasion can report it to Customs at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/reportcustomsoffence</a>.</p>
+duty or GST evasion can report it to Customs at <a href="https://go.gov.sg/reportcustomsoffence" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/reportcustomsoffence</a>.</p>
 <p><strong>Corrupt Practices Investigation Bureau</strong>
 <br>
 </p>
