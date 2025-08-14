@@ -64,8 +64,8 @@ a total value of S$301,000.</p>
 for offences punishable under Section 477A read with Section 109 of the <em>Penal Code</em>,
 respectively.</p>
 <p>10. Singapore adopts a strict zero-tolerance approach towards corruption.
-Any person convicted of a corruption offence under Section 6 or Section
-5 of the <em>Prevention of Corruption Act</em> can be fined up to S$100,000
+Any person convicted of a corruption offence under Section 5 or Section
+6 of the <em>Prevention of Corruption Act</em> can be fined up to S$100,000
 or sentenced to imprisonment not exceeding five years or to both. Any person
 convicted of an amalgamated charge punishable under Section 124(8)(a)(ii)
 of the <em>Criminal Procedure Code</em> can face twice the amount of punishment
