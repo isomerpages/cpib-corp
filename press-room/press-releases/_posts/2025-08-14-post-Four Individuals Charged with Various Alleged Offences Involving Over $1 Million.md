@@ -38,7 +38,7 @@ these messages.</p>
 for offences punishable under section 6(b) and 6(a) of the <em>Prevention of Corruption Act</em>,
 respectively. San San faces one additional charge for an offence punishable
 under Section 204A of the <em>Penal Code</em>.</p>
-<p><strong><em>Alleged Corruption Offences Between Lim Chin Kiat and Kong Soon Hua </em></strong>
+<p><strong><em>Alleged Corruption Offences Between Lim Chin Kiat and Kong Soon Hua</em></strong>
 </p>
 <p>5. Sometime between 25 January 2016 and 6 February 2024, on multiple occasions,
 Chin Kiat allegedly received bribes from Soon Hua amounting to about S$418,600
@@ -49,7 +49,7 @@ for offences punishable under Section 5(a)(i) and Section 5(b)(i) of the <em>Pre
 respectively. Of these charges, five are amalgamated under Section 124(4)
 of the <em>Criminal Procedure Code</em>, four of which are liable for enhanced
 punishment under Section 124(8)(a)(ii) of the of the <em>Criminal Procedure Code</em>.</p>
-<p><strong><em>Alleged Falsification of Accounts Offences Between Lim Chin Kiat and Lim Choon Huat </em></strong>
+<p><strong><em>Alleged Falsification of Accounts Offences Between Lim Chin Kiat and Lim Choon Huat</em></strong>
 </p>
 <p>7. On nine occasions between 30 September 2016 and 20 November 2019, Chin
 Kiat allegedly conspired with Choon Huat to defraud PAME by falsifying
@@ -63,7 +63,7 @@ a total value of S$301,000.</p>
 <p>9. For their alleged actions, Chin Kiat and Choon Huat face 11 and 9 charges
 for offences punishable under Section 477A read with Section 109 of the <em>Penal Code</em>,
 respectively.</p>
-<p>10 Singapore adopts a strict zero-tolerance approach towards corruption.
+<p>10. Singapore adopts a strict zero-tolerance approach towards corruption.
 Any person convicted of a corruption offence under Section 6 or Section
 5 of the <em>Prevention of Corruption Act</em> can be fined up to S$100,000
 or sentenced to imprisonment not exceeding five years or to both. Any person
