@@ -65,9 +65,9 @@ complaints, including anonymous ones.</p>
 <summary>If I choose to call the CPIB Duty Officer hotline to lodge the corruption
 complaint, what time can I make the call?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The CPIB Duty Officer hotline 1800-376-0000* is available every day. If
-you reach out to our duty officer between 10pm to 6am, please leave a voice
-message for us to return your call.</p>
+<p>The CPIB Duty Officer hotline 1800-376-0000* is available during our operating
+hours, Mondays - Thursdays: 8.30am to 6pm and Fridays: 8.30am to 5.30pm
+(Closed on weekends and public holidays).</p>
 </div>
 </details>
 <details class="isomer-details">
