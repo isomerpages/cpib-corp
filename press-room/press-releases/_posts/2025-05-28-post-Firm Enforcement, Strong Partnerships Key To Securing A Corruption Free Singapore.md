@@ -102,8 +102,9 @@ and a zero-tolerance culture for corruption were cited as the top factors
 contributing to the low corruption rate in Singapore. 92% of respondents
 were totally or somewhat intolerant towards corruption, a significant improvement
 from 85% in 2022 and 80% in 2020 (<strong>Figure 5</strong>).</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001.png">
 </div>
 <p><strong>Combatting Corruption Through Firm Enforcement Action</strong>
 </p>
