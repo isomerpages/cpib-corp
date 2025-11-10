@@ -18,9 +18,9 @@ whose companies provide funeral-related services or cemetery-related works.
 The bribes were an inducement to refrain from reporting any malpractices
 committed by the 10 said individuals.</p>
 <p>3. For his alleged actions, Salam faces 10 charges for offences under
-Section 6(a) of the Prevention of Corruption Act, of which two charges
-are amalgamated pursuant to Section 124(4) and punishable under Section
-124(8)(a)(ii) of the Criminal Procedure Code.</p>
+Section 6(a) of the <em>Prevention of Corruption Act</em>, of which two
+charges are amalgamated pursuant to Section 124(4) and punishable under
+Section 124(8)(a)(ii) of the Criminal Procedure Code.</p>
 <p>4. Singapore adopts a strict zero-tolerance approach towards corruption.
 Any person convicted of a corruption offence under Section 6 of the Prevention
 of Corruption Act can be fined up to S$100,000 or sentenced to imprisonment
