@@ -64,7 +64,7 @@ description: Contact Us
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>2. Lodge an <a href="/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank">E-Complaint</a></strong>
+<p><strong>2. Lodge an </strong><a href="/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank">E-Complaint</a>
 </p>
 </td>
 </tr>
