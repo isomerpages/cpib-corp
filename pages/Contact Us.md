@@ -64,7 +64,7 @@ description: Contact Us
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>2. Lodge an <a href="/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank">E-Complaint</a></strong>
+<p><strong>2. Lodge an </strong><a href="/e-services/e-complaint-for-corrupt-conduct/" rel="noopener noreferrer nofollow" target="_blank">E-Complaint</a>
 </p>
 </td>
 </tr>
@@ -98,8 +98,7 @@ description: Contact Us
 </p>
 <p><strong>Hotline:</strong> 6270-0141
 <br><strong>Online Form: </strong><a href="https://go.gov.sg/cpib-general-enquiry" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpib-general-enquiry</a>
-<a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
-</a><strong>Fax No.:</strong> 6270-0320</p>
+<br><strong>Fax No.:</strong> 6270-0320</p>
 </td>
 </tr>
 <tr>
