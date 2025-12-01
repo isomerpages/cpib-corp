@@ -25,8 +25,6 @@ to learn about:</p>
 <p>The one-hour talk comprises a presentation, screening of video and a dialogue.</p>
 <p>* Programme is subjected to change.
 <br>* This e-Service will require 5 – 10 minutes to complete.
-<br>* If users encounter any errors with the e-Service, please submit an online
-enquiry form with information on the issue; <a href="https://go.gov.sg/cpib-general-enquiry" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/cpib-general-enquiry</u></a>
 <br>
 </p>
 <p><strong><a href="https://form.gov.sg/68635b2114b5204fa80c7227" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE TO PROCEED</a></strong>
