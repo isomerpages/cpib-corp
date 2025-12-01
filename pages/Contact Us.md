@@ -122,7 +122,9 @@ description: Contact Us
 <br>
 </p>
 <p><strong>Hotline:</strong> 6270-0141
-<br><strong>Email: </strong><a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>info@cpib.gov.sg<br></u></a><strong>Fax No.:</strong> 6270-0320</p>
+<br><strong>Online Form: </strong><a href="https://go.gov.sg/cpib-general-enquiry" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpib-general-enquiry</a>
+<a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
+</a><strong>Fax No.:</strong> 6270-0320</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -138,7 +140,7 @@ description: Contact Us
 <p>For service related matters, you may contact us at:</p>
 <p></p>
 <p><strong>Hotline:</strong> 1800-270-0855*
-<br><strong>Email: </strong><a href="mailto:QSM@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>QSM@cpib.gov.sg</u></a>
+<br><strong>Online Form: </strong><a href="https://go.gov.sg/cpib-general-enquiry" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpib-general-enquiry</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
