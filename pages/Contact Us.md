@@ -38,17 +38,8 @@ description: Contact Us
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>247 Whitley Road, Singapore 297830</p>
-<p></p>
-<p><a href="https://www.google.com/maps/place/247+Whitley+Rd,+Singapore+297830/@1.3230371,103.8241004,17z/data=!3m1!4b1!4m6!3m5!1s0x31da19febd35b811:0xbe865b829f1a0fa0!8m2!3d1.3230371!4d103.8266753!16s%2Fg%2F11h1hwkc5l?entry=ttu" rel="noopener noreferrer nofollow" target="_blank">Visit Map</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Operating Hours</strong>
-</p>
-<p></p>
-<p><strong>Mondays - Saturdays</strong>:&nbsp;
+<td rowspan="1" colspan="2">
+<p>247 Whitley Road, Singapore 297830
 <br>Closed until further notice</p>
 </td>
 </tr>
