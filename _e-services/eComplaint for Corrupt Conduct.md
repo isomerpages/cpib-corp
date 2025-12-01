@@ -45,5 +45,8 @@ our <a href="/privacy/" rel="noopener noreferrer nofollow" target="_blank">Priva
 give or cause to be given any false or misleading information to the CPIB.
 The punishment is an imprisonment of up to 12 months or a maximum fine
 of $10,000, or both.</p>
-<p>* If users encounter any errors with the e-Service, please email info@cpib.gov.sg
-with information on the issue.</p>
+<p>* If users encounter any errors with the e-Service, please submit an online
+enquiry form with information on the issue; <a href="https://go.gov.sg/cpib-general-enquiry" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/cpib-general-enquiry</u></a>
+</p>
+<p></p>
+<p></p>
