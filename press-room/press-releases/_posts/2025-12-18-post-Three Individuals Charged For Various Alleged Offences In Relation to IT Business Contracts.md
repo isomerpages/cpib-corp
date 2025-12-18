@@ -97,10 +97,9 @@ not to reveal their personal details when lodging a corruption complaint.</p>
 <p>16. Organisations are strongly advised to put in place robust procedures,
 in areas such as procurement and internal audit, to prevent falling victim
 to corrupt acts by their employees. Guidance for organisations on measures
-to prevent corruption can be found in PACT: A Practical Anti-Corruption
-Guide for Businesses in Singapore, which is available on CPIB’s website.
-Organisations are also strongly encouraged to obtain certification under
-the Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems,
+to prevent corruption can be found in <a href="https://www.cpib.gov.sg/research-room/publications/anti-corruption-guide-for-businesses/" rel="noopener nofollow" target="_blank">PACT: A Practical Anti-Corruption Guide for Businesses in Singapore</a>,
+which is available on CPIB’s website. Organisations are also strongly encouraged
+to obtain certification under the <a href="https://www.cpib.gov.sg/research-room/publications/ss-iso-37001/" rel="noopener nofollow" target="_blank">Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems</a>,
 which is designed to help organisations implement or enhance an anti-bribery
 management system to reduce corporate risk and costs related to bribery.</p>
 <p>Reference Links:</p>
