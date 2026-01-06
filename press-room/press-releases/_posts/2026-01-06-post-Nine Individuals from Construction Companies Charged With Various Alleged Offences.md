@@ -42,11 +42,11 @@ the material time of the offences.</p>
 <p><strong><em>Alleged Corruption Offences Relating to Toyah, Technihub IEA, RCS, and a Senior Procurement Engineer at ALSG</em></strong>
 </p>
 <p>2. On separate occasions between 2019 and 2021, Thangavel and Lai allegedly
-gave bribes<a rel="noopener noreferrer nofollow" target="_blank"> </a>to
-a senior procurement engineer at ALSG. Moreover, Kalimuthu allegedly conspired
-with Sandran to give bribes to the same senior procurement engineer. The
-bribes totalling S$160,000 were either inducements or rewards to further
-the business interests of Toyah, Technihub IEA and RCS with ALSG.</p>
+gave bribes to a senior procurement engineer at ALSG. Moreover, Kalimuthu
+allegedly conspired with Sandran to give bribes to the same senior procurement
+engineer. The bribes totalling S$160,000 were either inducements or rewards
+to further the business interests of Toyah, Technihub IEA and RCS with
+ALSG.</p>
 <p>3. For their alleged actions, Thangavel and Lai each face one charge under
 Section 6(b) of the <em>Prevention of Corruption Act (“PCA”)</em>. Kalimuthu
 and Sandran each face two charges under Section 6(b) read with Section
@@ -138,6 +138,9 @@ management system to reduce corporate risk and costs related to bribery.</p>
 </p>
 </li>
 </ul>
+<p></p>
+<p><em><sup>1 </sup>Sundarraj had previously been convicted and sentenced to 39 months’ imprisonment on 30 December 2024 for various offences under the Prevention of Corruption Act and Penal Code, in relation to this case.</em>
+</p>
 <p><strong>Corrupt Practices Investigation Bureau</strong>
 <br>
 </p>
