@@ -21,4 +21,5 @@ information on the issue.</p>
 </p>
 <p><strong><a href="https://bail.cpib.gov.sg/" rel="noopener nofollow" target="_blank">CLICK HERE TO PROCEED</a></strong>
 </p>
-<p></p>
+<p><em>Note: This e-Service is undergoing a scheduled maintenance on 10 January 2026, from 9am to 9pm and will resume thereafter. </em>
+</p>
