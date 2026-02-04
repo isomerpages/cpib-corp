@@ -18,7 +18,7 @@ enforcement action against her for smoking in a non-designated area near
 Lucky Plaza along Orchard Road. The NEA enforcement officers rejected the
 bribe, and the case was subsequently referred to the Corrupt Practices
 Investigation Bureau (CPIB). For her alleged action, Lin faces one charge
-punishable under Section 6(b) of the Prevention of Corruption Act.</p>
+punishable under Section 6(b) of the <em>Prevention of Corruption Act</em>.</p>
 <p>3. Singapore adopts a strict zero-tolerance approach towards corruption.
 Any person convicted of a corruption offence under Section 6 of the <em>Prevention of Corruption Act</em> can
 be fined up to S$100,000 or sentenced to imprisonment not exceeding five
