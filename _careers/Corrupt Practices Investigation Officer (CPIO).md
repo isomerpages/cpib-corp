@@ -35,9 +35,10 @@ is a testament to our resolve.</p>
 <h4><strong>What awaits you after you join?</strong></h4>
 <p><strong><em>Training and Peer Support Network</em></strong>
 </p>
-<p>You will start your CPIO journey with our 5-month Corruption Practices
-Investigation Course which will equip you with the relevant knowledge and
-skills to perform your duties.</p>
+<p>You will start your journey with our Corrupt Practices Investigation Officer
+(CPIO) Programme. This training, which comprises a hybrid of residential
+and non-residential components, will equip you with the relevant knowledge
+and skills to perform your duties.</p>
 <p>In this course, you will learn the principles of corruption and criminal
 investigations, law and investigation processes, search and seizure, interview
 and interrogation techniques. In addition, you will be introduced to digital
@@ -49,7 +50,7 @@ you with the CPIB environment and work.</p>
 <p>There will be a 2-year bond after the training.&nbsp;</p>
 <p><strong><em>Foundational Posting to Investigation Units</em></strong>
 </p>
-<p>After completing the 5-month programme, you will be posted to the investigation
+<p>After completing the training programme, you will be posted to the investigation
 units for your foundational posting. Through this, you will take on cases
 and hone your investigations tradecraft. You will also be assigned a mentor
 to guide you in your career journey.</p>
@@ -62,14 +63,14 @@ and interrogation, financial investigation, scene and evidence management,
 documentation and reporting writing etc. Throughout your career with CPIB,
 there will be rich and diverse learning and development opportunities such
 as various personal development courses, leadership programmes, cross-departmental
-projects, as well as sponsorship/scholarship schemes for professional certifications
-and postgraduate studies etc to support your career aspirations.</p>
-<p>There will be posting opportunities to different portfolios within CPIB
-and other agencies to gain exposures and widen your skillsets. To broaden
-horizons and enrich experiences, CPIB also offers overseas and local attachment
-opportunities. This initiative allows our officers to gain insights from
-our partner organisation, bringing back learnings that enrich our collective
-expertise.</p>
+projects, as well as sponsorship/scholarship schemes for postgraduate studies
+etc to support your career aspirations.</p>
+<p>There will be structured job rotation and posting opportunities to different
+portfolios within CPIB and other agencies to gain exposures and widen your
+skillsets. To broaden horizons and enrich experiences, CPIB also offers
+overseas and local attachment opportunities. This initiative allows our
+officers to gain insights from our partner organisation, bringing back
+learnings that enrich our collective expertise.</p>
 <h4><strong>Renumeration Package and Benefits</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -80,10 +81,10 @@ expertise.</p>
 experience will be remunerated accordingly)</p>
 </li>
 <li>
-<p>Degree Holders: $4,875 to $5,842</p>
+<p>Degree Holders: $5,045 to $6,067</p>
 </li>
 <li>
-<p>GCE ‘O’ level to Diploma Holders: $2,044 to $3,244</p>
+<p>GCE ‘O’ level to Diploma Holders: $2,060 to $3,372</p>
 </li>
 <li>
 <p>Retention incentives at various career milestones until retirement (aligned
@@ -94,7 +95,7 @@ to Public Service retirement age)</p>
 to work performance)</p>
 </li>
 <li>
-<p>Leave entitlements (aligned to Public Service)</p>
+<p>Leave entitlements</p>
 </li>
 <li>
 <p>Subsidised medical and dental fees</p>
@@ -126,10 +127,15 @@ to work under pressure;</p>
 </li>
 <li>
 <p>Self-driven and able to work effectively, independently and in a team
-environment; and</p>
+environment;</p>
 </li>
 <li>
-<p>Singapore Citizen</p>
+<p>Be physically fit (Candidates need to pass a medical examination. Male
+applicants should preferably have a fitness level of minimally PES B1);
+and</p>
+</li>
+<li>
+<p>Singapore Citizen.</p>
 </li>
 </ul>
 <p>All interested applicants are encouraged to look out for available positions
