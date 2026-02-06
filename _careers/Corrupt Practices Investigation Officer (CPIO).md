@@ -36,7 +36,7 @@ is a testament to our resolve.</p>
 <p><strong><em>Training and Peer Support Network</em></strong>
 </p>
 <p>You will start your journey with our Corrupt Practices Investigation Officer
-(CPIO) Programme. This training, which comprises a hybrid of residential
+(CPIO) training programme. This training, which comprises a hybrid of residential
 and non-residential components, will equip you with the relevant knowledge
 and skills to perform your duties.</p>
 <p>In this course, you will learn the principles of corruption and criminal
