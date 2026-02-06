@@ -8,7 +8,7 @@ description: ""
 <p>The CPIB is the sole agency responsible for combatting corruption in Singapore.
 Recognised globally and locally, Singapore is generally corruption free.
 People can therefore succeed based on merit, and there are fairness and
-equal opportunities for all. The bureau enjoys high public trusts, and
+equal opportunities for all. The Bureau enjoys high public trusts, and
 this in turn is instrumental in eradicating corruption. Choose a career
 that matters – join CPIB in the fight against corruption. CPIB provides
 ample opportunities for officers to grow professionally and personally.
