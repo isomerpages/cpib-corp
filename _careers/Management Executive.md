@@ -50,15 +50,11 @@ expertise.</p>
 <p>Professional learning and development opportunities</p>
 </li>
 <li>
-<p>$3,750 to $4,574 (indicative salary range for degree holders; successful
-candidates with relevant work experience will be remunerated accordingly)</p>
+<p>Competitive remuneration including Public Service bonuses for performance,
+mid-year and end-year (subjected to work performance)</p>
 </li>
 <li>
-<p>Public Service bonuses for performance, mid-year and end-year (subjected
-to work performance)</p>
-</li>
-<li>
-<p>Leave entitlements (aligned to Public Service)</p>
+<p>Leave entitlements</p>
 </li>
 <li>
 <p>Subsidised medical and dental fees</p>
