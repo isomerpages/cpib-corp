@@ -20,7 +20,7 @@ a comparative listing of corruption worldwide.</p>
 been widely credited with putting the issue of corruption on the international
 policy agenda. Using expert assessments and opinion surveys, the CPI measures
 and ranks countries and territories based on the perceived levels of public
-sector corruption. The CPI currently ranks 180 countries on a scale from
+sector corruption. The CPI currently ranks 182 countries on a scale from
 100 (very clean) to 0 (highly corrupt).</p>
 <h3><strong>Singapore’s Ranking</strong></h3>
 <p>Since its inception, Singapore has been ranked consistently among one
@@ -45,17 +45,6 @@ of the least corrupt countries in the world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5/180</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>83/100</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,6 +57,17 @@ of the least corrupt countries in the world.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3/180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>84/100</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3/180</p>

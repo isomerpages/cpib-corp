@@ -22,12 +22,11 @@ on Asian business and politics. In its <strong><em>Annual Review of Corruption i
 it provides an overview of the corruption trends in Asia and a detailed
 analysis of the corruption situation in each country.</p>
 <h3><strong>Singapore's Ranking</strong></h3>
-<p>Since its inception, PERC has consistently ranked Singapore as the least
-corrupt country out of the 16 countries surveyed. Grades are scaled from
-zero to 10, with zero being the best grade possible and 10 being the worst.</p>
-<table style="minWidth: 75px">
+<p>Since its inception, Singapore has consistently received the best score
+out of the 16 countries surveyed. Grades are scaled from zero to 10, with
+zero being the best grade possible and 10 being the worst.</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -35,9 +34,6 @@ zero to 10, with zero being the best grade possible and 10 being the worst.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Ranking</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Score</p>
@@ -48,9 +44,6 @@ zero to 10, with zero being the best grade possible and 10 being the worst.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1/16</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1.83</p>
 </td>
 </tr>
@@ -59,18 +52,12 @@ zero to 10, with zero being the best grade possible and 10 being the worst.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1/16</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2.09</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1/16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15</p>
