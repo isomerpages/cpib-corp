@@ -31,3 +31,5 @@ by a shared commitment to integrity. This zero-tolerance towards corruption
 and collective determination to do the right thing remain the cornerstone
 of Singapore’s enduring reputation as a clean and corrupt-free nation.
 &nbsp;</p>
+<p><strong>Corrupt Practices Investigation Bureau</strong>
+</p>
