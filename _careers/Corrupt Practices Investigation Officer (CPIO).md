@@ -35,16 +35,20 @@ is a testament to our resolve.</p>
 <h4><strong>What awaits you after you join?</strong></h4>
 <p><strong><em>Training and Peer Support Network</em></strong>
 </p>
-<p>You will start your journey with our Corrupt Practices Investigation Officer
-(CPIO) training programme. This training, which comprises a hybrid of residential
-and non-residential components, will equip you with the relevant knowledge
-and skills to perform your duties.</p>
-<p>In this course, you will learn the principles of corruption and criminal
-investigations, law and investigation processes, search and seizure, interview
-and interrogation techniques. In addition, you will be introduced to digital
-forensics and the capabilities that CPIB has. The training also covers
-self-defence tactics, firearms handling, first aid training and other exposures
-including visits to different agencies and study trips.</p>
+<p>You will start your journey with our CPIO training programme. This training,
+which comprises a hybrid of residential and non-residential components,
+will equip you with the relevant knowledge and skills to perform your duties.</p>
+<p>The programme starts with 9-month residential training at the Home Team
+Academy (HTA) to prepare you for your role at the Bureau. You will undergo
+a well-structured curriculum to learn the criminal laws, investigation
+techniques, self-defence tactics and weapons handling. The training also
+includes an overseas leadership training programme and a Class 3 driving
+course.</p>
+<p>Following the HTA training, you will undertake 2-3 months of specialised
+non-residential in-house training focused on corruption and financial investigation,
+application of the relevant laws, complaint management, scene management,
+evidence handling, interview and interrogation, testimony provision in
+Court etc.&nbsp;</p>
 <p>You will also be assigned a buddy, who will orientate and familiarise
 you with the CPIB environment and work.</p>
 <p>There will be a 2-year bond after the training.&nbsp;</p>
