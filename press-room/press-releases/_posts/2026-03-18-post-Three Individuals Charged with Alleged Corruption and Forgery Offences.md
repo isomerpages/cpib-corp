@@ -24,8 +24,8 @@ over six separate occasions to give bribes totalling S$53,500 to Ng as
 inducements to advance the business interests of Zoaster with Zoho involving
 sales of proprietary software services.</p>
 <p>3. For his alleged actions, Ng faces six charges under Section 6(a) of
-the Prevention of Corruption Act (“PCA”). For Phan and Lui, they face six
-charges each under Section 6(b) read with Section 29(a) of the PCA.</p>
+the <em>Prevention of Corruption Act (“PCA”)</em>. For Phan and Lui, they
+face six charges each under Section 6(b) read with Section 29(a) of the <em>PCA</em>.</p>
 <p><strong><em>Alleged Forgery Offences</em></strong>
 </p>
 <p>4. Between February and April 2023, Ng, Phan and Lui allegedly conspired
@@ -35,12 +35,12 @@ work was performed. Ng was the Director and shareholder of Loverrella and
 these false invoices were intended to conceal the alleged bribes that Phan
 and Lui had given to Ng.</p>
 <p>5. For their alleged actions, Ng, Phan and Lui face four charges each
-under Section 465 read with Section 109 of the Penal Code.</p>
+under Section 465 read with Section 109 of the <em>Penal Code</em>.</p>
 <p>6. Singapore adopts a strict zero-tolerance approach towards corruption.
-Any person convicted of a corruption offence under Section 6 of the PCA
-can be fined up to S$100,000 or sentenced to imprisonment not exceeding
-five years or to both. Any person convicted of an offence under Section
-465 of the Penal Code can be sentenced to imprisonment for a term which
+Any person convicted of a corruption offence under Section 6 of the <em>PCA</em> can
+be fined up to S$100,000 or sentenced to imprisonment not exceeding five
+years or to both. Any person convicted of an offence under Section 465
+of the <em>Penal Code</em> can be sentenced to imprisonment for a term which
 may extend to four years, or with fine, or with both.</p>
 <p>7. Organisations are strongly advised to put in place robust financial
 procedures, in areas such as procurement, to prevent falling victim to
