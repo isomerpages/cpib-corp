@@ -110,4 +110,3 @@ a false statement in his corruption complaint. Complainants may also choose
 not to reveal their personal details when lodging a corruption complaint.</p>
 <p><strong>Corrupt Practices Investigation Bureau</strong>
 </p>
-<p></p>
