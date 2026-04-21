@@ -35,7 +35,7 @@ alleged offences.</p>
 </p>
 <p>2. Between 5 February 2018 and 11 April 2022, on separate occasions, Shin,
 Seo, Kim and Woo allegedly obtained bribes totalling S$143,000 from Loy
-as inducements to further the business interests of Capital, Asiana and/or
+as inducements to further the business interests of Capital, Asiana<sup>1</sup> and/or
 AC City Pte Ltd, with Dongah.</p>
 <p>3.&nbsp;Between 2018 and 2021, Kim also allegedly concealed $38,000 in
 corrupt benefits by arranging for the monies to be deposited into his wife’s
@@ -128,8 +128,9 @@ management system to reduce corporate risks and costs related to bribery.</p>
 <li>
 <p>SS ISO 37001: <a href="https://www.cpib.gov.sg/research-room/publications/ss-iso-37001/" rel="noopener noreferrer nofollow" target="_blank">https://www.cpib.gov.sg/research-room/publications/ss-iso-37001/</a>
 </p>
-<p></p>
 </li>
 </ul>
+<p><em>[1] Asiana is the sole shareholder of AC City Pte Ltd.</em>
+</p>
 <p><strong>Corrupt Practices Investigation Bureau</strong>
 </p>
