@@ -38,3 +38,33 @@ storage were the main industries vulnerable to corruption.</p>
 <p><strong><em><u>High Clearance Rate</u></em></strong>
 </p>
 <p>5. In 2025, CPIB achieved a clearance rate<sup>3</sup> of 86% (Figure 3).</p>
+<p><strong><em><u>High Conviction Rate</u></em></strong>
+</p>
+<p>6. The conviction rate for CPIB cases in 2025 was 100% (excluding withdrawal
+cases). The conviction rate stood at 91% if withdrawal cases were included
+(Figure 4). Withdrawals refer to cases withdrawn after the accused was
+charged in Court and before any Court decision was made.</p>
+<p>7. CPIB will henceforth only report the conviction rate that includes
+withdrawal cases. This statistic offers a more accurate representation
+of CPIB’s success in securing conviction.</p>
+<h4>Strong International Standing</h4>
+<p>8. Singapore continues to be well-regarded internationally for our anti-corruption
+approach and efforts. The latest 2025 Transparency International’s Corruption
+Perceptions Index (TI-CPI) ranked Singapore as the third least corrupt
+country out of 182 countries, with a score of 84 out of 100, the same rank
+and score as the preceding year4. Singapore remained the top ranked country
+in the Asia-Pacific region. In the 2025 Report on Corruption by the Political
+and Economic Risk Consultancy, Singapore received the best score among
+16 economies in Asia, the US and Australia. In the World Justice Project
+Rule of Law Index 2025, Singapore improved our ranking from third to second
+out of 143 countries for absence of corruption in government.</p>
+<h4>Improvement in Public Perception of Corruption Control Efforts</h4>
+<p>9. Annually, CPIB commissions the Public Perception Survey5 to gauge the
+perceived level of corruption in Singapore, public understanding of corruption,
+and perception of the Bureau’s effectiveness in curbing corruption.</p>
+<p>10. In the 2025 survey, 98% of respondents rated the corruption situation
+in Singapore as Good, Very Good, or Excellent. Political will to keep corruption
+under control, a zero-tolerance culture for corruption, and effective anti-corruption
+laws were cited as the top three factors contributing to the low corruption
+rate in Singapore. There was significant improvement in the public confidence
+and trust in CPIB</p>
