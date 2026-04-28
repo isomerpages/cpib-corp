@@ -23,11 +23,11 @@ number of corruption-related reports received by CPIB, as well as the number
 of cases registered for investigation remained low. In 2025, CPIB received
 160 corruption-related reports, a 10% decrease from the 177 corruption-related
 reports received in 2024. In 2025, CPIB registered 68 reports as new cases
-for investigation. (Figure 1). A report is registered for investigation
-if the information received is pursuable. This is determined by the quality
-of relevant information provided. Investigative enquiries and intelligence
-probes by CPIB also uncovered further information that enabled a higher
-percentage of reports to be registered for investigation.</p>
+for investigation <strong>(Figure 1)</strong>. A report is registered for
+investigation if the information received is pursuable. This is determined
+by the quality of relevant information provided. Investigative enquiries
+and intelligence probes by CPIB also uncovered further information that
+enabled a higher percentage of reports to be registered for investigation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Figure 1 - Number of New Cases Registered For Investigation 2021-2025" src="/images/Figure_1_Number_of_New_Cases_Registered_For_Investigation_2021_2025.png">
@@ -39,8 +39,8 @@ investigation in 2025, 16 (24%) were anonymous.</p>
 <p><strong><em><u>Number of Bribe Rejection Cases</u></em></strong>
 </p>
 <p>3. Of the 68 cases registered for investigation in 2025, one involved
-the public sector (Figure 2). 22 cases (32%) involved public sector employees<sup>1</sup> rejecting
-bribes offered by members of public.</p>
+the public sector <strong>(Figure 2)</strong>. 22 cases (32%) involved public
+sector employees<sup>1</sup> rejecting bribes offered by members of public.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Figure 2 - Breakdown of New Cases Registered By Public vs Private Sector 2021-2025" src="/images/Figure_2_Breakdown_of_New_Cases_Registered_By_Public_vs_Private_Sector_2021_2025.png">
@@ -53,7 +53,7 @@ over the past 10 years, construction, manufacturing, transportation and
 storage were the main industries vulnerable to corruption.</p>
 <p><strong><em><u>High Clearance Rate</u></em></strong>
 </p>
-<p>5. In 2025, CPIB achieved a clearance rate<sup>3</sup> of 86% (Figure 3).</p>
+<p>5. In 2025, CPIB achieved a clearance rate<sup>3</sup> of 86% <strong>(Figure 3)</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Figure 3 - Clearance Rate 2021-2025" src="/images/Figure_3_Clearance_Rate_2021_2025.png">
@@ -61,9 +61,9 @@ storage were the main industries vulnerable to corruption.</p>
 <p><strong><em><u>High Conviction Rate</u></em></strong>
 </p>
 <p>6. The conviction rate for CPIB cases in 2025 was 100% (excluding withdrawal
-cases). The conviction rate stood at 91% if withdrawal cases were included
-(Figure 4). Withdrawals refer to cases withdrawn after the accused was
-charged in Court and before any Court decision was made.</p>
+cases). The conviction rate stood at 91% if withdrawal cases were included <strong>(Figure 4)</strong>.
+Withdrawals refer to cases withdrawn after the accused was charged in Court
+and before any Court decision was made.</p>
 <p>7. CPIB will henceforth only report the conviction rate that includes
 withdrawal cases. This statistic offers a more accurate representation
 of CPIB’s success in securing conviction.</p>
@@ -95,7 +95,7 @@ laws were cited as the top three factors contributing to the low corruption
 rate in Singapore. There was significant improvement in the public confidence
 and trust in CPIB compared with 2024. Over 95% of the respondents gave
 favourable responses (Strong Agree or Agree) to related questions in the
-survey (Figure 5).</p>
+survey <strong>(Figure 5)</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Figure 5 - Strong Public Confidence and Trust in CPIB's Work" src="/images/Figure_5_Strong_Public_Confidence_and_Trust_in_CPIB_s_Work.png">
@@ -183,3 +183,8 @@ can strengthen anti-corruption efforts.</p>
 will continue to take effective enforcement against corrupt offenders,
 and deepen partnerships with stakeholders and the community to keep our
 home free from corruption.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Corruption Reporting How To" src="/images/Corruption_Reporting_How_To.png">
+</div>
+<p></p>
