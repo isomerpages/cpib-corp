@@ -76,3 +76,69 @@ survey (Figure 5).</p>
 <p>11. Swift and decisive enforcement action taken by CPIB underscores Singapore’s
 zero-tolerance approach towards corruption and ensures a level-playing
 field for businesses operating in Singapore and the wider community.</p>
+<p><strong><em>Case 1 – Investigation Against Five Foreigners in Scheme to Deliberately Commit Corruption and Get Arrested to Illegally Sell Sex Enhancement Medications</em></strong>
+</p>
+<p>On 18 July 2025, five Chinese nationals were charged in Court for allegedly
+offering bribes to enforcement officers from the National Environment Agency
+and the Singapore Police Force to avoid enforcement action for various
+offences, including smoking in prohibited areas and involvement in a traffic
+accident. All bribes were rejected by the enforcement officers.</p>
+<p>CPIB investigation uncovered a scheme whereby these five foreigners allegedly
+planned to get arrested so as to obtain Special Passes and prolong their
+stay in Singapore with the intent to illegally sell Sex Enhancement Medications
+while out on bail. Further investigation revealed that these foreigners
+allegedly paid their bailors to facilitate their bail and bail extensions.
+All five foreigners were remanded without bail and investigations with
+respect to the scheme are ongoing.</p>
+<p><strong><em>Case 2 – Investigation Against Nine Individuals Arrested for Fixing Basketball Matches</em></strong>
+</p>
+<p>On 19 August 2025, nine individuals were arrested by CPIB for alleged
+involvement in fixing basketball matches in the 2025 K. Star National Basketball
+League Division 1.</p>
+<p>These individuals, comprising eight Singaporeans and one permanent resident
+aged between 19 and 35 years old, included players from the basketball
+teams taking part in the competition. CPIB investigation revealed that
+one of the alleged fixed basketball matches took place on 1 August 2025.
+Investigations against the arrested persons for alleged corruption are
+ongoing.</p>
+<p><strong><em>Case 3 – Investigation Against a Former Esplanade and Arts House Employee, Three Directors and Their Companies</em></strong>
+</p>
+<p>On 31 October 2025, a former employee of The Esplanade Co Ltd (“TECL”)
+and the Arts House Limited (“AHL”), Saburulla S/O Abdul Gani (“Saburulla”),
+was charged with alleged corruption, along with three directors and their
+companies.</p>
+<p>Saburulla allegedly obtained over S$96,000 in bribes between 2005 and
+2022 from three company directors of two different firms – a Director of
+JYD Design Pte Ltd, Yeoh Wee Yeong, and two Directors of Aceproject Construction
+Pte Ltd, Chew Kim Kee and Eng Kim Hai – in exchange for advancing their
+business interests with TECL or AHL in various renovation and installation
+projects.</p>
+<p>The individuals also allegedly conspired to submit false quotations with
+no genuine intention of bidding, making the two companies appear to offer
+the lowest prices and securing them multiple contracts with TECL or AHL.
+The case is currently before the Court.</p>
+<p><strong><em>Case 4 – Investigation Against a Former Driving Tester for Attempting to Obtain Bribe from Test Candidate</em></strong>
+</p>
+<p>On 11 December 2025, Muhamad Zahirey Bin Ishak (“Zahirey”), a driving
+tester with People Advantage Pte Ltd deployed to Bukit Batok Driving Centre
+(“BBDC”) at the material time of the offence, was charged for an offence
+under the Prevention of Corruption Act.</p>
+<p>Zahirey allegedly attempted to obtain S$150 from a driving test candidate
+at BBDC, as a reward for showing leniency during the candidate’s practical
+driving test so that the candidate could qualify for a Singapore Driving
+Licence. The case is currently before the Court.</p>
+<h4>Collective Action Key to Corruption Prevention</h4>
+<p>12. Together with a vigilant public, a collective approach to corruption
+prevention complements enforcement efforts by reinforcing integrity and
+incorruptibility within society, ensuring that corruption has little opportunity
+to take root.</p>
+<p>13. Over the past year, CPIB has intensified our corruption prevention
+efforts across both the public and private sectors and also invested more
+efforts on the vulnerable industries by partnering relevant stakeholders,
+including the media, professional bodies and trade associations to amplify
+anti-corruption messages.</p>
+<p>14. CPIB partners with public sector agencies to identify touchpoints
+and co-develop targeted resources that address their specific operational
+context and challenges. Our work with Certis illustrates this collaborative
+approach where we jointly developed a customised anti-corruption training
+module for their Auxiliary Police Officers.</p>
