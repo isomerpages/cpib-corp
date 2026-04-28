@@ -29,3 +29,12 @@ investigation in 2025, 16 (24%) were anonymous.</p>
 <p>3. Of the 68 cases registered for investigation in 2025, one involved
 the public sector (Figure 2). 22 cases (32%) involved public sector employees<sup>1</sup> rejecting
 bribes offered by members of public.</p>
+<p>4. In 2025, 90 individuals were prosecuted in Court for offences investigated
+by CPIB. Of these, 84 (94%) were private sector individuals while the remaining
+6 (6%) were public sector employees<sup>2</sup>. Based on the cases of
+private sector employees prosecuted in Court for corruption-related offences
+over the past 10 years, construction, manufacturing, transportation and
+storage were the main industries vulnerable to corruption.</p>
+<p><strong><em><u>High Clearance Rate</u></em></strong>
+</p>
+<p>5. In 2025, CPIB achieved a clearance rate<sup>3</sup> of 86% (Figure 3).</p>
