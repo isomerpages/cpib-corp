@@ -188,3 +188,26 @@ home free from corruption.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Corruption Reporting How To" src="/images/Corruption_Reporting_How_To.png">
 </div>
 <p></p>
+<p>[1] Public sector employees who rejected bribes comprised officers from
+the Immigration &amp; Checkpoints Authority (ICA), the Land Transport Authority,
+the National Environment Agency (NEA), the Singapore Police Force (SPF),
+and an officer from the Certis Cisco Aviation Security Pte Ltd who was
+performing a public function.
+<br>[2] The six public sector employees prosecuted were from the National
+Environment Agency, the Singapore Armed Forces, the Singapore Civil Defence
+Force, the Singapore Prison Service, St. Anthony’s Canossian Secondary
+School, and St. Joseph’s Institution.
+<br>[3] Clearance rate refers to the total number of subjects CPIB has completed
+investigation on, out of the total number of subjects investigated by CPIB
+in the year.
+<br>[4] The TI-CPI ranks and measures countries by their perceived levels
+of public sector corruption. The 2025 index draws upon 13 expert assessments
+and business surveys. Countries are then scored on a scale of zero, for
+highly corrupt, to 100, for very clean.
+<br>[5] CPIB engages an independent research company to gauge public perception
+on corruption and the Bureau. The survey, carried out annually since 2024,
+is conducted with 1,000 individuals representative of the Singapore population
+profile.</p>
+<p></p>
+<p><strong>Corrupt Practices Investigation Bureau</strong>
+</p>
