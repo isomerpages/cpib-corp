@@ -8,7 +8,15 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Annual Corruption Statistics 2025" src="/images/A4_Version_a4__1_.png">
+</div>
 <h3>EFFECTIVE ENFORCEMENT AND COLLECTIVE ACTION KEY TO KEEPING SINGAPORE CORRUPTION-FREE</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Anti-corruption key messages" src="/images/Screenshot_2026_04_28_092902.png">
+</div>
 <h4>Corruption Situation in Singapore Remains Firmly Under Control</h4>
 <p>The corruption situation in Singapore remains firmly under control. The
 number of corruption-related reports received by CPIB, as well as the number
@@ -20,6 +28,10 @@ if the information received is pursuable. This is determined by the quality
 of relevant information provided. Investigative enquiries and intelligence
 probes by CPIB also uncovered further information that enabled a higher
 percentage of reports to be registered for investigation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Figure 1 - Number of New Cases Registered For Investigation 2021-2025" src="/images/Figure_1_Number_of_New_Cases_Registered_For_Investigation_2021_2025.png">
+</div>
 <p>2. CPIB treats all reports received seriously regardless of whether the
 complainant is named or anonymous. Of the 160 corruption-related reports
 received in 2025, 56 (35%) were anonymous. Of the 68 cases registered for
@@ -29,6 +41,10 @@ investigation in 2025, 16 (24%) were anonymous.</p>
 <p>3. Of the 68 cases registered for investigation in 2025, one involved
 the public sector (Figure 2). 22 cases (32%) involved public sector employees<sup>1</sup> rejecting
 bribes offered by members of public.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Figure 2 - Breakdown of New Cases Registered By Public vs Private Sector 2021-2025" src="/images/Figure_2_Breakdown_of_New_Cases_Registered_By_Public_vs_Private_Sector_2021_2025.png">
+</div>
 <p>4. In 2025, 90 individuals were prosecuted in Court for offences investigated
 by CPIB. Of these, 84 (94%) were private sector individuals while the remaining
 6 (6%) were public sector employees<sup>2</sup>. Based on the cases of
@@ -38,6 +54,10 @@ storage were the main industries vulnerable to corruption.</p>
 <p><strong><em><u>High Clearance Rate</u></em></strong>
 </p>
 <p>5. In 2025, CPIB achieved a clearance rate<sup>3</sup> of 86% (Figure 3).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Figure 3 - Clearance Rate 2021-2025" src="/images/Figure_3_Clearance_Rate_2021_2025.png">
+</div>
 <p><strong><em><u>High Conviction Rate</u></em></strong>
 </p>
 <p>6. The conviction rate for CPIB cases in 2025 was 100% (excluding withdrawal
@@ -47,6 +67,10 @@ charged in Court and before any Court decision was made.</p>
 <p>7. CPIB will henceforth only report the conviction rate that includes
 withdrawal cases. This statistic offers a more accurate representation
 of CPIB’s success in securing conviction.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Figure 4 - Conviction Rate 2021-2025" src="/images/Figure_4_Conviction_Rate_2021_2025.png">
+</div>
 <h4>Strong International Standing</h4>
 <p>8. Singapore continues to be well-regarded internationally for our anti-corruption
 approach and efforts. The latest 2025 Transparency International’s Corruption
@@ -72,6 +96,10 @@ rate in Singapore. There was significant improvement in the public confidence
 and trust in CPIB compared with 2024. Over 95% of the respondents gave
 favourable responses (Strong Agree or Agree) to related questions in the
 survey (Figure 5).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Figure 5 - Strong Public Confidence and Trust in CPIB's Work" src="/images/Figure_5_Strong_Public_Confidence_and_Trust_in_CPIB_s_Work.png">
+</div>
 <h4>Effective Enforcement Against Corruption</h4>
 <p>11. Swift and decisive enforcement action taken by CPIB underscores Singapore’s
 zero-tolerance approach towards corruption and ensures a level-playing
