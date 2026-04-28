@@ -142,3 +142,16 @@ and co-develop targeted resources that address their specific operational
 context and challenges. Our work with Certis illustrates this collaborative
 approach where we jointly developed a customised anti-corruption training
 module for their Auxiliary Police Officers.</p>
+<p>15. CPIB continues to engage and bolster corruption prevention efforts
+in the private sector via the Anti-Corruption Partnership Network (ACPN).
+On 5 September 2025, over 160 professionals from financial institutions,
+auditing and consultancy firms, professional bodies, and industry associations
+attended the annual ACPN event co-organised by CPIB and the Institute of
+Singapore Chartered Accountants (ISCA). Participants shared and exchanged
+best practices on how technology, professional ethics, and collaboration
+can strengthen anti-corruption efforts.</p>
+<h4>Conclusion</h4>
+<p>16. Singapore's corruption situation remains firmly under control. CPIB
+will continue to take effective enforcement against corrupt offenders,
+and deepen partnerships with stakeholders and the community to keep our
+home free from corruption.</p>
