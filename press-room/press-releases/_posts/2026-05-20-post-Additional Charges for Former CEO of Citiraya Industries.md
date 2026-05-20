@@ -8,8 +8,8 @@ image: ""
 variant: tiptap
 ---
 <p>On 20 May 2026, <strong>Ng Teck Lee ("Ng") </strong>(黄德利, 59-year-old male
-Singaporean), Chief Executive Officer of Citiraya Industries Ltd (“Citiraya”)1
-at the material time of the offences faced <strong><u>38</u></strong> additional
+Singaporean), Chief Executive Officer of Citiraya Industries Ltd (“Citiraya”)<sup>1</sup> at
+the material time of the offences faced <strong><u>38</u></strong> additional
 charges in Court. Ng was earlier charged and remanded on 4 December 2024
 for allegedly committing a criminal breach of trust (“CBT”) offence and
 a corruption offence, following his arrest in Singapore after remaining
@@ -181,6 +181,9 @@ and can be reached via the following channels:</p>
 <p>a) Where, when and how did the alleged corrupt act happen?
 <br>b) Who was involved and what were their roles?
 <br>c) What was the bribe given and the favour shown?</p>
+<p></p>
+<p><em>[1] Citiraya was in the business of recycling and recovering precious metals from electronic scrap. Citiraya has since changed its name to Centillion Environment &amp; Recycling Ltd.</em>
+</p>
 <p></p>
 <p><strong>Corrupt Practices Investigation Bureau</strong>
 </p>
