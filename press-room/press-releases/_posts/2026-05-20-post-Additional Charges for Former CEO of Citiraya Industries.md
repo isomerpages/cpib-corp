@@ -81,7 +81,7 @@ Citiraya, and selling the said property in Hong Kong and Taiwan.</p>
 <p>7. For his alleged actions, Ng faces <strong><u>one</u></strong> charge
 under Section 408 of the <em>PC </em>which is amalgamated pursuant to Section
 124(4) of the <em>CPC</em>.</p>
-<p>8 In addition, Ng, who was entrusted with dominion over the electronic
+<p>8. In addition, Ng, who was entrusted with dominion over the electronic
 scrap of Intel Resale Corporation and Agilent Technologies Singapore Pte
 Ltd, weighing about 112,798 kilograms and 416 kilograms respectively, allegedly
 committed CBT by dishonestly disposing these electronic scraps in violation
