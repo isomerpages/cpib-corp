@@ -19,5 +19,3 @@ do the right thing even if no one is watching.</p>
 <p>Download at the link below:</p>
 <p><a href="https://go.gov.sg/the-case-of-the-corrupted-chicken" rel="noopener nofollow" target="_blank">The Case of the Corrupted Chicken</a>
 </p>
-<p>If you have any feedback, we would like to hear from you at <a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@cpib.gov.sg</a>
-</p>
