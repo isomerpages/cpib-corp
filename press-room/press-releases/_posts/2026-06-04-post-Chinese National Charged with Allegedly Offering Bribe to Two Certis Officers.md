@@ -33,9 +33,9 @@ and can be reached via the following channels:</p>
 <p>a) Where, when and how did the alleged corrupt act happen?
 <br>b) Who was involved and what were their roles?
 <br>c) What was the bribe given and the favour shown?</p>
-<p>6. Under the law, the identity of the person making the report will be
-kept confidential, except when the court finds that the person has made
-a false statement in his corruption complaint. Complainants may also choose
-not to reveal their personal details when lodging a corruption complaint.</p>
+<p>6. Under the law, the identity of the person making the report is protected,
+except where the court finds that the person has intentionally made a false
+statement in his or her report. Informers may choose to remain anonymous
+when making the report.</p>
 <p><strong>Corrupt Practices Investigation Bureau</strong>
 </p>
