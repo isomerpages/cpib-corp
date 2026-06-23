@@ -20,7 +20,7 @@ the material time of the offences;</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp; <strong>Oh Kok Hua (“Oh”)</strong> (胡国华, 53-year-old
 male Singaporean), a Quantity Surveyor in the employ of Penta Ocean Construction
 Co. Ltd (“Penta Ocean”) at the material time of the offences; and</p>
-<p>d)&nbsp;&nbsp;&nbsp;&nbsp; <strong>Kou Hou</strong> (向峰,57-year-old male
+<p>d)&nbsp;&nbsp;&nbsp;&nbsp; <strong>Kou Hou</strong> (向峰, 57-year-old male
 Japanese), a Construction Manager in the employ of Penta Ocean at the material
 time of the offences.</p>
 <p></p>
