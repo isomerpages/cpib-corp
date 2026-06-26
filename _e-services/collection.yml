@@ -3,6 +3,4 @@ collections:
     output: true
     order:
       - eComplaint for Corrupt Conduct.md
-      - eBooking for Public Education Talk.md
-      - eBooking for Learning Journey.md
       - eApplication for Extension of Bail Bond.md
