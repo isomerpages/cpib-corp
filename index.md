@@ -64,4 +64,11 @@ sections:
         allowfullscreen=""></iframe></div>
       button: More Videos
       url: https://www.youtube.com/@CPIBsingapore
+  - infobar:
+      title: CPIB Public Perception Survey 2026
+      id: infobar
+      description: CPIB will be conducting a Public Perception Survey from July to
+        September 2026.
+      button: Click to read more
+      url: cpib-public-perception-survey-2026/
 ---
